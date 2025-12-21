@@ -8,13 +8,22 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
           node-version: 18
-      - run: npm install
-      - run: npm run wotd:generate
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Generate Word of the Day
+        run: npm run wotd:generate
+
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions"
@@ -24,6 +33,7 @@ jobs:
           git push
 
       - name: Send push notification (optional)
-        if: ${{ secrets.SITE_URL != '' && secrets.PUSH_CRON_SECRET != '' }}
+        if: ${{ secrets.SITE_URL && secrets.PUSH_CRON_SECRET }}
         run: |
-          curl -X POST "${{ secrets.SITE_URL }}/api/push/send-wotd" -H "x-push-secret: ${{ secrets.PUSH_CRON_SECRET }}" || true
+          curl -X POST "${{ secrets.SITE_URL }}/api/push/send-wotd" \
+            -H "x-push-secret: ${{ secrets.PUSH_CRON_SECRET }}" || true
