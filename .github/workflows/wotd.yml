@@ -33,7 +33,14 @@ jobs:
           git push
 
       - name: Send push notification (optional)
-        if: ${{ secrets.SITE_URL && secrets.PUSH_CRON_SECRET }}
         run: |
-          curl -X POST "${{ secrets.SITE_URL }}/api/push/send-wotd" \
-            -H "x-push-secret: ${{ secrets.PUSH_CRON_SECRET }}" || true
+          if [ -n "${SITE_URL}" ] && [ -n "${PUSH_CRON_SECRET}" ]; then
+            echo "Sending push notification..."
+            curl -X POST "${SITE_URL}/api/push/send-wotd" \
+              -H "x-push-secret: ${PUSH_CRON_SECRET}"
+          else
+            echo "Skipping push notification (secrets not set)"
+          fi
+        env:
+          SITE_URL: ${{ secrets.SITE_URL }}
+          PUSH_CRON_SECRET: ${{ secrets.PUSH_CRON_SECRET }}
