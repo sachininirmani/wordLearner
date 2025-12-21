@@ -1,0 +1,22 @@
+{
+  "date": "2025-12-20",
+  "word": "welcome",
+  "meaningEn": "Used to greet someone in a friendly way.",
+  "meaningSi": "මිතුරන් ලෙස පිළිගැනීමට භාවිත කරන වචනයක්.",
+  "phonetic": null,
+  "audio": null,
+  "usage": [
+    {
+      "en": "Welcome to our class!",
+      "si": "අපගේ පන්තියට සාදරයෙන් පිළිගනිමු!"
+    },
+    {
+      "en": "You are welcome.",
+      "si": "ඔබට පිළිගැනීමයි/ස්තුතියි කියන්න අවශ්‍ය නැහැ."
+    },
+    {
+      "en": "We welcome new students.",
+      "si": "අපි නව සිසුන් සාදරයෙන් පිළිගනිමු."
+    }
+  ]
+}

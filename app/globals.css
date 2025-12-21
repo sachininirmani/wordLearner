@@ -1,0 +1,98 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg-from: #eff6ff;
+  --bg-via: #ffffff;
+  --bg-to: #dbeafe;
+  --text: #0f172a;
+  --muted: #64748b;
+  --card-bg: rgba(255,255,255,0.9);
+  --card-contrast: #0f172a;
+  --accent: #2563eb;
+}
+
+.dark {
+  --bg-from: #0f172a;
+  --bg-via: #0b1220;
+  --bg-to: #071028;
+  --text: #e6eef8;
+  --muted: #94a3b8;
+  --card-bg: rgba(15,23,42,0.7);
+  --card-contrast: #e6eef8;
+  --accent: #60a5fa;
+}
+
+html { font-family: Inter, ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; }
+
+/* Prevent flash / reduce hydration mismatches by avoiding transition during initial theme swap */
+html, body {
+  transition: none !important;
+}
+html.theme-ready, html.theme-ready body {
+  transition: background-color 200ms ease, color 200ms ease;
+}
+
+body {
+  @apply min-h-screen;
+  color: var(--text);
+  background: linear-gradient(135deg, var(--bg-from), var(--bg-via) 40%, var(--bg-to));
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Headings scale up for readability */
+h1 { @apply text-4xl md:text-6xl font-extrabold tracking-tight; }
+h2 { @apply text-2xl md:text-3xl font-semibold; }
+
+/* Cards: more padding, wider and clearer */
+.card {
+  @apply rounded-2xl shadow-glow border;
+  background-color: var(--card-bg);
+  border-color: rgba(37,99,235,0.08);
+  padding: 1rem;
+}
+
+/* Buttons: stronger contrast */
+.btn {
+  @apply inline-flex items-center justify-center gap-2 rounded-xl px-5 py-3 font-semibold
+         transition disabled:opacity-50 disabled:cursor-not-allowed;
+  background-color: var(--accent);
+  color: white;
+}
+
+.btn-soft {
+  @apply inline-flex items-center justify-center gap-2 rounded-xl px-4 py-2 font-medium transition disabled:opacity-50 disabled:cursor-not-allowed;
+  background-color: rgba(56, 189, 248, 0.12);
+  color: var(--accent);
+}
+
+.chip {
+  @apply inline-flex items-center rounded-full px-3 py-1 text-sm;
+  background-color: rgba(56, 189, 248, 0.08);
+  color: var(--muted);
+  border: 1px solid rgba(37,99,235,0.06);
+}
+
+/* WOTD card special styling */
+.wotd-card {
+  @apply rounded-3xl p-6 md:p-8;
+  background: linear-gradient(90deg, rgba(59,130,246,0.06), rgba(99,102,241,0.03));
+  border: 1px solid rgba(59,130,246,0.08);
+}
+
+.wotd-word {
+  @apply font-extrabold;
+  color: var(--accent);
+}
+
+.wotd-meaning {
+  @apply rounded-xl p-4;
+  background-color: rgba(255,255,255,0.6);
+  color: var(--card-contrast);
+}
+
+.sinhala {
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Noto Sans Sinhala", "Noto Sans", sans-serif;
+}

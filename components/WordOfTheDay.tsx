@@ -1,0 +1,133 @@
+"use client";
+
+import { useEffect, useState } from "react";
+import Loader from "@/components/Loader";
+import { CalendarDays } from "lucide-react";
+import type { WordResult } from "@/lib/types";
+
+/* -------------------- Types -------------------- */
+
+type WotdFile = {
+  date: string;
+  word: string;
+  meaningEn: string;
+  meaningSi: string;
+  phonetic?: string | null;
+  audio?: string | null;
+  usage?: { en: string; si: string }[];
+};
+
+type WordOfTheDayProps = {
+  autoLoad?: boolean;
+  onLoadWord?: (word: WordResult) => void;
+};
+
+/* -------------------- Component -------------------- */
+
+export default function WordOfTheDay({
+  autoLoad = false,
+  onLoadWord,
+}: WordOfTheDayProps) {
+  const [data, setData] = useState<WotdFile | null>(null);
+  const [loading, setLoading] = useState(false);
+  const [error, setError] = useState<string | null>(null);
+
+  async function load() {
+    setError(null);
+    setLoading(true);
+
+    try {
+      const res = await fetch("/wotd.json", { cache: "no-store" });
+      if (!res.ok) throw new Error("Failed to load");
+
+      const json = (await res.json()) as WotdFile;
+      setData(json);
+
+      /* ✅ Normalize WOTD → WordResult */
+      onLoadWord?.({
+        word: json.word,
+        meaningEn: json.meaningEn,
+        meaningSi: json.meaningSi,
+        phonetic: json.phonetic,
+        audio: json.audio,
+        examplesEn: Array.isArray(json.usage)
+          ? json.usage.map((u) => u.en)
+          : [],
+        examplesSi: Array.isArray(json.usage)
+          ? json.usage.map((u) => u.si)
+          : [],
+        source: "Word of the Day",
+      });
+    } catch {
+      setError("Could not load Word of the Day.");
+    } finally {
+      setLoading(false);
+    }
+  }
+
+  useEffect(() => {
+    if (autoLoad) load();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [autoLoad]);
+
+  return (
+    <section className="rounded-3xl bg-white dark:bg-slate-800 shadow-lg p-5 md:p-7 wotd-card">
+      <div className="flex items-center justify-between gap-3">
+        <div className="flex items-center gap-2">
+          <CalendarDays className="h-5 w-5 text-slate-700" />
+          <h2 className="text-lg font-semibold">Word of the Day</h2>
+        </div>
+
+        <div className="flex items-center gap-2">
+          <a className="btn-soft" href="/">
+            Back
+          </a>
+          <button className="btn-soft" onClick={load} disabled={loading}>
+            Refresh
+          </button>
+        </div>
+      </div>
+
+      <div className="mt-3 min-h-[24px]">
+        {loading && <Loader label="Loading WOTD..." />}
+        {error && <p className="text-sm text-red-600">{error}</p>}
+      </div>
+
+      {data && (
+        <div className="mt-4 space-y-4">
+          <div className="flex items-baseline justify-between gap-3">
+            <div>
+              <p className="text-sm text-slate-500">{data.date}</p>
+              <p className="wotd-word text-4xl md:text-6xl">{data.word}</p>
+            </div>
+            {data.phonetic && (
+              <p className="text-sm text-slate-600">{data.phonetic}</p>
+            )}
+          </div>
+
+          <div className="wotd-meaning">
+            <p className="font-medium">Meaning (EN)</p>
+            <p className="mt-1 text-lg text-slate-800 dark:text-slate-100">{data.meaningEn}</p>
+
+            <p className="mt-3 font-medium">අර්ථය (SI)</p>
+            <p className="mt-1 text-lg sinhala text-slate-800 dark:text-slate-100">{data.meaningSi}</p>
+          </div>
+
+          {Array.isArray(data.usage) && data.usage.length > 0 && (
+            <div className="rounded-xl border border-slate-200 p-4">
+              <p className="font-medium">Examples</p>
+              <ul className="mt-2 space-y-2">
+                {data.usage.slice(0, 3).map((u, idx) => (
+                  <li key={idx} className="text-sm">
+                    <p className="text-slate-800 dark:text-slate-100">{u.en}</p>
+                    <p className="text-slate-600 dark:text-slate-300 sinhala">{u.si}</p>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )}
+        </div>
+      )}
+    </section>
+  );
+}

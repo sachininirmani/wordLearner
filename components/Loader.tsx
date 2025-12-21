@@ -1,0 +1,1 @@
+export default function Loader({label='Loading...'}:{label?:string}){return(<div className='flex items-center gap-3 text-slate-600'><div className='h-4 w-4 animate-spin rounded-full border-2 border-primary-200 border-t-primary-700'/><span className='text-sm'>{label}</span></div>);}
