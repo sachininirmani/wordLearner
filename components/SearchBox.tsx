@@ -23,10 +23,21 @@ export default function SearchBox({ onResult }: { onResult: (r: WordResult) => v
   const [error, setError] = useState<string | null>(null);
 
   const lastRequested = useRef<string>("");
+  const suppressSuggestRef = useRef<boolean>(false);
 
   const debouncedSuggest = useMemo(
     () =>
       debounce(async (text: string) => {
+        // If a search was just triggered, skip the suggestion fetch that would otherwise
+        // be re-populated by the debounced watcher. This prevents suggestions from
+        // reappearing immediately after selecting or searching a word.
+        if (suppressSuggestRef.current) {
+          suppressSuggestRef.current = false;
+          setSuggestions([]);
+          setLoadingSug(false);
+          return;
+        }
+
         const t = text.trim();
         if (t.length < 2) {
           setSuggestions([]);
@@ -54,6 +65,9 @@ export default function SearchBox({ onResult }: { onResult: (r: WordResult) => v
 
     setLoadingDef(true);
     setError(null);
+    // Suppress the next debounced suggestion fetch (if any) so suggestions don't
+    // reappear after we initiate a definition lookup.
+    suppressSuggestRef.current = true;
     setSuggestions([]);
 
     try {
