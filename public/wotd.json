@@ -1,22 +1,22 @@
 {
-  "date": "2025-12-21",
-  "word": "brave",
-  "meaningEn": "A Native American warrior.",
-  "meaningSi": "ස්වදේශික ඇමෙරිකානු රණශූරයෙක්.",
-  "phonetic": "/bɹeɪv/",
-  "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/brave-us.mp3",
+  "date": "2025-12-22",
+  "word": "patient",
+  "meaningEn": "A person or animal who receives treatment from a doctor or other medically educated person.",
+  "meaningSi": "වෛද් ‍ යවරයෙකුගෙන් හෝ වෙනත් වෛද් ‍ යමය වශයෙන් උගත් පුද්ගලයෙකුගෙන් ප් ‍ රතිකාර ලබන පුද්ගලයෙකු හෝ සතෙකු.",
+  "phonetic": "/ˈpeɪʃənt/",
+  "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/patient-uk.mp3",
   "usage": [
     {
-      "en": "I am learning the word \"brave\" today.",
-      "si": "අද මම ඉගෙන ගන්නේ \"නිර්භීත\" යන වචනයයි."
+      "en": "I am learning the word \"patient\" today.",
+      "si": "අද මම ඉගෙන ගන්නේ \"රෝගියා\" යන වචනයයි."
     },
     {
-      "en": "Can you use \"brave\" in a sentence?",
-      "si": "ඔබට වාක් යයක \"නිර්භීත\" භාවිතා කළ හැකිද?"
+      "en": "Can you use \"patient\" in a sentence?",
+      "si": "ඔබට එක් වාක් යයක \"රෝගියා\" භාවිතා කළ හැකිද?"
     },
     {
-      "en": "This word \"brave\" is useful in daily English.",
-      "si": "දෛනික ඉංග් රීසි භාෂාවේදී \"නිර්භීත\" යන වචනය ප් රයෝජනවත් වේ."
+      "en": "This word \"patient\" is useful in daily English.",
+      "si": "දෛනික ඉංග් රීසි භාෂාවේදී මෙම වචනය \"රෝගියා\" යන වචනය ප් රයෝජනවත් වේ."
     }
   ]
 }
