@@ -1,22 +1,22 @@
 {
-  "date": "2025-12-20",
-  "word": "welcome",
-  "meaningEn": "Used to greet someone in a friendly way.",
-  "meaningSi": "මිතුරන් ලෙස පිළිගැනීමට භාවිත කරන වචනයක්.",
-  "phonetic": null,
-  "audio": null,
+  "date": "2025-12-22",
+  "word": "patient",
+  "meaningEn": "A person or animal who receives treatment from a doctor or other medically educated person.",
+  "meaningSi": "වෛද් ‍ යවරයෙකුගෙන් හෝ වෙනත් වෛද් ‍ යමය වශයෙන් උගත් පුද්ගලයෙකුගෙන් ප් ‍ රතිකාර ලබන පුද්ගලයෙකු හෝ සතෙකු.",
+  "phonetic": "/ˈpeɪʃənt/",
+  "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/patient-uk.mp3",
   "usage": [
     {
-      "en": "Welcome to our class!",
-      "si": "අපගේ පන්තියට සාදරයෙන් පිළිගනිමු!"
+      "en": "I am learning the word \"patient\" today.",
+      "si": "අද මම ඉගෙන ගන්නේ \"රෝගියා\" යන වචනයයි."
     },
     {
-      "en": "You are welcome.",
-      "si": "ඔබට පිළිගැනීමයි/ස්තුතියි කියන්න අවශ්‍ය නැහැ."
+      "en": "Can you use \"patient\" in a sentence?",
+      "si": "ඔබට එක් වාක් යයක \"රෝගියා\" භාවිතා කළ හැකිද?"
     },
     {
-      "en": "We welcome new students.",
-      "si": "අපි නව සිසුන් සාදරයෙන් පිළිගනිමු."
+      "en": "This word \"patient\" is useful in daily English.",
+      "si": "දෛනික ඉංග් රීසි භාෂාවේදී මෙම වචනය \"රෝගියා\" යන වචනය ප් රයෝජනවත් වේ."
     }
   ]
 }
