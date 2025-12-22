@@ -1,22 +1,22 @@
 {
   "date": "2025-12-22",
-  "word": "patient",
-  "meaningEn": "A person or animal who receives treatment from a doctor or other medically educated person.",
-  "meaningSi": "වෛද් ‍ යවරයෙකුගෙන් හෝ වෙනත් වෛද් ‍ යමය වශයෙන් උගත් පුද්ගලයෙකුගෙන් ප් ‍ රතිකාර ලබන පුද්ගලයෙකු හෝ සතෙකු.",
-  "phonetic": "/ˈpeɪʃənt/",
-  "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/patient-uk.mp3",
+  "word": "fillister",
+  "meaningEn": "A rabbet/rebate for holding a sash window",
+  "meaningSi": "සැෂ් කවුළුවක් පැවැත්වීම සඳහා රැබෙට්/වට්ටමක්",
+  "phonetic": null,
+  "audio": null,
   "usage": [
     {
-      "en": "I am learning the word \"patient\" today.",
-      "si": "අද මම ඉගෙන ගන්නේ \"රෝගියා\" යන වචනයයි."
+      "en": "I am learning the word \"fillister\" today.",
+      "si": "අද මම ඉගෙන ගන්නේ 'ෆැන්ටසි' කියන වචනය."
     },
     {
-      "en": "Can you use \"patient\" in a sentence?",
-      "si": "ඔබට එක් වාක් යයක \"රෝගියා\" භාවිතා කළ හැකිද?"
+      "en": "Can you use \"fillister\" in a sentence?",
+      "si": "ඔබට වාක් යයක \"ෆයර්ෆොක්ස්\" භාවිතා කළ හැකිද?"
     },
     {
-      "en": "This word \"patient\" is useful in daily English.",
-      "si": "දෛනික ඉංග් රීසි භාෂාවේදී මෙම වචනය \"රෝගියා\" යන වචනය ප් රයෝජනවත් වේ."
+      "en": "This word \"fillister\" is useful in daily English.",
+      "si": "දෛනික ඉංග් රීසි භාෂාවේ මෙම වචනය ප් රයෝජනවත් වේ."
     }
   ]
 }

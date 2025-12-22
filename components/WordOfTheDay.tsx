@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import Loader from "@/components/Loader";
 import { CalendarDays } from "lucide-react";
 import type { WordResult } from "@/lib/types";
@@ -31,6 +31,44 @@ export default function WordOfTheDay({
   const [data, setData] = useState<WotdFile | null>(null);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
+
+  const audioRef = useRef<HTMLAudioElement | null>(null);
+  const [isPlaying, setIsPlaying] = useState(false);
+
+  async function toggleAudio() {
+    if (!data?.audio) return;
+    try {
+      // If currently playing, stop it
+      if (audioRef.current && !audioRef.current.paused) {
+        audioRef.current.pause();
+        audioRef.current.currentTime = 0;
+        setIsPlaying(false);
+        return;
+      }
+
+      // Create and play a new audio element
+      const a = new Audio(data.audio);
+      audioRef.current = a;
+      await a.play();
+      setIsPlaying(true);
+      a.addEventListener("ended", () => setIsPlaying(false));
+      a.addEventListener("pause", () => setIsPlaying(false));
+    } catch {
+      setIsPlaying(false);
+    }
+  }
+
+  // Clean up audio on data change / unmount
+  useEffect(() => {
+    return () => {
+      if (audioRef.current) {
+        audioRef.current.pause();
+        audioRef.current = null;
+        setIsPlaying(false);
+      }
+    };
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [data]);
 
   async function load() {
     setError(null);
@@ -100,9 +138,19 @@ export default function WordOfTheDay({
               <p className="text-sm text-slate-500">{data.date}</p>
               <p className="wotd-word text-4xl md:text-6xl">{data.word}</p>
             </div>
-            {data.phonetic && (
-              <p className="text-sm text-slate-600">{data.phonetic}</p>
-            )}
+            <div className="flex items-center gap-3">
+              {data.phonetic && <p className="text-sm text-slate-600">{data.phonetic}</p>}
+              {data.audio && (
+                <button
+                  className="btn-soft"
+                  onClick={toggleAudio}
+                  aria-pressed={isPlaying}
+                  aria-label={isPlaying ? "Stop pronunciation" : "Play pronunciation"}
+                >
+                  {isPlaying ? "⏹️ Stop" : "🔊 Play"}
+                </button>
+              )}
+            </div>
           </div>
 
           <div className="wotd-meaning">
