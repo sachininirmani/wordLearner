@@ -88,12 +88,8 @@ export default function WordOfTheDay({
         meaningSi: json.meaningSi,
         phonetic: json.phonetic,
         audio: json.audio,
-        examplesEn: Array.isArray(json.usage)
-          ? json.usage.map((u) => u.en)
-          : [],
-        examplesSi: Array.isArray(json.usage)
-          ? json.usage.map((u) => u.si)
-          : [],
+        examplesEn: [],
+        examplesSi: [],
         source: "Word of the Day",
       });
     } catch {
@@ -161,19 +157,7 @@ export default function WordOfTheDay({
             <p className="mt-1 text-lg sinhala text-slate-800 dark:text-slate-100">{data.meaningSi}</p>
           </div>
 
-          {Array.isArray(data.usage) && data.usage.length > 0 && (
-            <div className="rounded-xl border border-slate-200 p-4">
-              <p className="font-medium">Examples</p>
-              <ul className="mt-2 space-y-2">
-                {data.usage.slice(0, 3).map((u, idx) => (
-                  <li key={idx} className="text-sm">
-                    <p className="text-slate-800 dark:text-slate-100">{u.en}</p>
-                    <p className="text-slate-600 dark:text-slate-300 sinhala">{u.si}</p>
-                  </li>
-                ))}
-              </ul>
-            </div>
-          )}
+
         </div>
       )}
     </section>

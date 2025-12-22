@@ -49,13 +49,14 @@ export async function POST(req: Request) {
   const wotd = getWotd();
   const title = "Word of the Day";
   const body = wotd?.word
-    ? `${wotd.word} — ${wotd.meaningEn ?? ""}`
+    ? `${wotd.word} — ${wotd.meaningEn ?? ""}${wotd.meaningSi ? " — " + wotd.meaningSi : ""}`
     : "Open to see today's word.";
 
   const payload = JSON.stringify({
     title,
     body,
     url: "/wotd",
+    meaningSi: wotd?.meaningSi ?? null,
   });
 
   // IMPORTANT: await KV read
