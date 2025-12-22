@@ -1,65 +1,34 @@
-import fs from "node:fs";
-import path from "node:path";
+import { kv } from "@vercel/kv";
 
-export type PushSubscriptionJSON = {
+export interface PushSubscriptionJSON {
   endpoint: string;
-  keys?: { p256dh?: string; auth?: string };
-  expirationTime?: number | null;
-};
-
-function resolveStorePath() {
-  // Prefer repo data folder for local dev.
-  const preferred = path.join(process.cwd(), "data", "subscriptions.json");
-  try {
-    fs.mkdirSync(path.dirname(preferred), { recursive: true });
-    if (!fs.existsSync(preferred)) fs.writeFileSync(preferred, "[]", "utf-8");
-    return preferred;
-  } catch {
-    // Serverless-friendly fallback
-    const fallback = path.join("/tmp", "subscriptions.json");
-    try {
-      if (!fs.existsSync(fallback)) fs.writeFileSync(fallback, "[]", "utf-8");
-    } catch {}
-    return fallback;
-  }
+  keys: {
+    p256dh: string;
+    auth: string;
+  };
 }
 
-const STORE_PATH = resolveStorePath();
+/**
+ * Store each subscription using its endpoint as the key.
+ * Key format: push:sub:<endpoint>
+ */
 
-function readAll(): PushSubscriptionJSON[] {
-  try {
-    const raw = fs.readFileSync(STORE_PATH, "utf-8");
-    const arr = JSON.parse(raw);
-    return Array.isArray(arr) ? (arr as PushSubscriptionJSON[]) : [];
-  } catch {
-    return [];
-  }
+function keyFor(endpoint: string) {
+  return `push:sub:${endpoint}`;
 }
 
-function writeAll(list: PushSubscriptionJSON[]) {
-  try {
-    fs.writeFileSync(STORE_PATH, JSON.stringify(list, null, 2), "utf-8");
-  } catch {
-    // ignore
-  }
+export async function addSubscription(sub: PushSubscriptionJSON) {
+  await kv.set(keyFor(sub.endpoint), sub);
 }
 
-export function addSubscription(sub: PushSubscriptionJSON) {
-  const list = readAll();
-  const exists = list.some((s) => s.endpoint === sub.endpoint);
-  if (!exists) {
-    list.push(sub);
-    writeAll(list);
-  }
-  return { ok: true, count: list.length };
+export async function getAllSubscriptions(): Promise<PushSubscriptionJSON[]> {
+  const keys = await kv.keys("push:sub:*");
+  if (keys.length === 0) return [];
+
+  const subs = await kv.mget<PushSubscriptionJSON[]>(...keys);
+  return subs.filter(Boolean) as PushSubscriptionJSON[];
 }
 
-export function removeSubscription(sub: PushSubscriptionJSON) {
-  const list = readAll().filter((s) => s.endpoint !== sub.endpoint);
-  writeAll(list);
-  return { ok: true, count: list.length };
-}
-
-export function getAllSubscriptions() {
-  return readAll();
+export async function removeSubscription(endpoint: string) {
+  await kv.del(keyFor(endpoint));
 }
