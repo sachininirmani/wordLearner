@@ -1,22 +1,22 @@
 {
-  "date": "2026-01-01",
-  "word": "sequester",
-  "meaningEn": "Sequestration; separation",
-  "meaningSi": "වෙන්වීම; වෙන්වීම separation",
-  "phonetic": "/səˈkwɛs.tə/",
-  "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sequester-us.mp3",
+  "date": "2026-01-02",
+  "word": "dissoluble",
+  "meaningEn": "Which can be dissolved or disintegrated",
+  "meaningSi": "විසුරුවා හැරිය හැකි හෝ විසුරුවා හැරිය හැකි දේ",
+  "phonetic": null,
+  "audio": null,
   "usage": [
     {
-      "en": "I am learning the word \"sequester\" today.",
-      "si": "අද මම ඉගෙන ගන්නේ \"සෙක්ස්\" කියන වචනේ."
+      "en": "I am learning the word \"dissoluble\" today.",
+      "si": "අද මම ඉගෙන ගන්නේ \"විභේදනය\" යන වචනයයි."
     },
     {
-      "en": "Can you use \"sequester\" in a sentence?",
-      "si": "ඔබට වාක් යයක \"සෙක්ස්ටර්\" භාවිතා කළ හැකිද?"
+      "en": "Can you use \"dissoluble\" in a sentence?",
+      "si": "ඔබට වාක් යයක \"විසංයෝජනය\" භාවිතා කළ හැකිද?"
     },
     {
-      "en": "This word \"sequester\" is useful in daily English.",
-      "si": "දෛනික ඉංග් රීසි භාෂාවේ මෙම වචනය ප් රයෝජනවත් වේ."
+      "en": "This word \"dissoluble\" is useful in daily English.",
+      "si": "දෛනික ඉංග් රීසි භාෂාවේදී \"විසුරුවා හැරීම\" යන වචනය ප් රයෝජනවත් වේ."
     }
   ]
 }
