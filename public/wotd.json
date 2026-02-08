@@ -1,22 +1,22 @@
 {
-  "date": "2026-02-07",
-  "word": "recommitting",
-  "meaningEn": "Commit again",
-  "meaningSi": "නැවත කැප කරන්න",
+  "date": "2026-02-08",
+  "word": "bulkhead",
+  "meaningEn": "A vertical partition dividing the hull into separate compartments; often made watertight to prevent excessive flooding if the ship's hull is breached.",
+  "meaningSi": "සිරස් කොටස් වෙනම කොටස් වලට කුහරය බෙදීම; බොහෝ විට නෞකාවේ කුහරය උල්ලංඝනය වුවහොත් අධික ගංවතුර වළක්වා ගැනීම සඳහා ජල තදබදය ඇති විය.",
   "phonetic": null,
-  "audio": null,
+  "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bulkhead-us.mp3",
   "usage": [
     {
-      "en": "I am learning the word \"recommitting\" today.",
-      "si": "අද මම ඉගෙන ගන්නේ \"ප් රතිචක් රීකරණය\" යන වචනයයි."
+      "en": "I am learning the word \"bulkhead\" today.",
+      "si": "අද මම ඉගෙන ගන්න යන්නේ \"බුදු දහම\" කියන වචනය."
     },
     {
-      "en": "Can you use \"recommitting\" in a sentence?",
-      "si": "ඔබට වචනයක් තුළ \"ප් රතිචක් රීකරණය\" භාවිතා කළ හැකිද?"
+      "en": "Can you use \"bulkhead\" in a sentence?",
+      "si": "ඔබට වාක් යයක \"බල්ක්හෙඩ්\" භාවිතා කළ හැකිද?"
     },
     {
-      "en": "This word \"recommitting\" is useful in daily English.",
-      "si": "දෛනික ඉංග් රීසි භාෂාවේ මෙම වචනය ප් රයෝජනවත් වේ."
+      "en": "This word \"bulkhead\" is useful in daily English.",
+      "si": "ඉංග් රීසි භාෂාවේ දිනපතා භාවිතා වන \"බල්ක්හෙඩ්\" (bulkhead) යන වචනය ප් රයෝජනවත් වේ."
     }
   ]
 }
