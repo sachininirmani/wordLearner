@@ -1,22 +1,22 @@
 {
-  "date": "2026-02-11",
-  "word": "farewells",
-  "meaningEn": "A wish of happiness or safety at parting, especially a permanent departure",
-  "meaningSi": "වෙන්වීමේදී ප් රීතිය හෝ ආරක්ෂාව පිළිබඳ ආශාවක්, විශේෂයෙන් ස්ථිර පිටත්වීමක්",
+  "date": "2026-02-12",
+  "word": "anted",
+  "meaningEn": "To pay the ante in poker. Often used as ante up.",
+  "meaningSi": "පෝකර් ගහන්න කලින් ගෙවන එක. එය බොහෝ විට පෙර පරිදිම භාවිතා වේ.",
   "phonetic": null,
-  "audio": null,
+  "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/anted-1-us.mp3",
   "usage": [
     {
-      "en": "I am learning the word \"farewells\" today.",
-      "si": "අද මම \"ආයුබෝවන්\" යන වචනය ඉගෙන ගනිමි."
+      "en": "I am learning the word \"anted\" today.",
+      "si": "අද මම ඉගෙන ගන්නේ \"ආනන්දය\" කියන වචනය."
     },
     {
-      "en": "Can you use \"farewells\" in a sentence?",
-      "si": "ඔබට වාක් යයක \"ෆයර්වෙල්\" භාවිතා කළ හැකිද?"
+      "en": "Can you use \"anted\" in a sentence?",
+      "si": "ඔබට එක් වාක් යයක \"ඇන්ටික්\" භාවිතා කළ හැකිද?"
     },
     {
-      "en": "This word \"farewells\" is useful in daily English.",
-      "si": "දෛනික ඉංග්රීසි භාෂාවේ මෙම වචනය \"ෆෙයාර්වෙල්\" යන වචනය ප්රයෝජනවත් වේ."
+      "en": "This word \"anted\" is useful in daily English.",
+      "si": "දෛනික ඉංග් රීසි භාෂාවේදී \"ඇන්ටිඩ්\" යන වචනය ප් රයෝජනවත් වේ."
     }
   ]
 }
