@@ -1,22 +1,22 @@
 {
-  "date": "2026-02-12",
-  "word": "anted",
-  "meaningEn": "To pay the ante in poker. Often used as ante up.",
-  "meaningSi": "පෝකර් ගහන්න කලින් ගෙවන එක. එය බොහෝ විට පෙර පරිදිම භාවිතා වේ.",
+  "date": "2026-02-13",
+  "word": "flanging",
+  "meaningEn": "A flange.",
+  "meaningSi": "ෆ්ලැන්ජ් එකක්.",
   "phonetic": null,
-  "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/anted-1-us.mp3",
+  "audio": null,
   "usage": [
     {
-      "en": "I am learning the word \"anted\" today.",
-      "si": "අද මම ඉගෙන ගන්නේ \"ආනන්දය\" කියන වචනය."
+      "en": "I am learning the word \"flanging\" today.",
+      "si": "අද මම ඉගෙන ගන්නේ \"කුණුහරුප\" කියන වචනය."
     },
     {
-      "en": "Can you use \"anted\" in a sentence?",
-      "si": "ඔබට එක් වාක් යයක \"ඇන්ටික්\" භාවිතා කළ හැකිද?"
+      "en": "Can you use \"flanging\" in a sentence?",
+      "si": "ඔබට වාක් යයක \"ෆ්ලැන්ග්\" භාවිතා කළ හැකිද?"
     },
     {
-      "en": "This word \"anted\" is useful in daily English.",
-      "si": "දෛනික ඉංග් රීසි භාෂාවේදී \"ඇන්ටිඩ්\" යන වචනය ප් රයෝජනවත් වේ."
+      "en": "This word \"flanging\" is useful in daily English.",
+      "si": "දෛනික ඉංග් රීසි භාෂාවේ මෙම වචනය ප් රයෝජනවත් වේ."
     }
   ]
 }
