@@ -1,22 +1,22 @@
 {
-  "date": "2026-02-14",
-  "word": "manzanilla",
-  "meaningEn": "A pale, dry fino sherry.",
-  "meaningSi": "පැල්ලම් සහිත, වියළි ෆිනෝ ෂෙරි.",
-  "phonetic": null,
-  "audio": null,
+  "date": "2026-02-15",
+  "word": "suggested",
+  "meaningEn": "To imply but stop short of saying explicitly.",
+  "meaningSi": "කෙටියෙන් කිවහොත්, කෙටියෙන් පැහැදිලි කිරීම නවත්වන්න.",
+  "phonetic": "/səˈdʒɛstɪd/",
+  "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/suggested-us.mp3",
   "usage": [
     {
-      "en": "I am learning the word \"manzanilla\" today.",
-      "si": "මම අද ඉගෙන ගන්නවා \"මංගල සමරවීර\" කියන වචනය."
+      "en": "I am learning the word \"suggested\" today.",
+      "si": "අද මම කියවන්නේ \"නිර්දේශිත\" යන වචනයයි."
     },
     {
-      "en": "Can you use \"manzanilla\" in a sentence?",
-      "si": "ඔබට මැන්සානිලා වාක් යයක \"මැන්සානිලා\" භාවිතා කළ හැකිද?"
+      "en": "Can you use \"suggested\" in a sentence?",
+      "si": "ඔබට වචනයක් තුළ \"අභිරුචිකරණය\" කළ හැකිද?"
     },
     {
-      "en": "This word \"manzanilla\" is useful in daily English.",
-      "si": "දෛනික ඉංග් රීසි භාෂාවේදී මෙම \"මැන්සානිලා\" යන වචනය ප් රයෝජනවත් වේ."
+      "en": "This word \"suggested\" is useful in daily English.",
+      "si": "ඉංග් රීසි භාෂාවේ මේ වචනය එදිනෙදා කටයුතුවලදී ප් රයෝජනවත් වෙනවා."
     }
   ]
 }
