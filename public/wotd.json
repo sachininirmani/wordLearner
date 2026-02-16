@@ -1,22 +1,22 @@
 {
-  "date": "2026-02-15",
-  "word": "suggested",
-  "meaningEn": "To imply but stop short of saying explicitly.",
-  "meaningSi": "කෙටියෙන් කිවහොත්, කෙටියෙන් පැහැදිලි කිරීම නවත්වන්න.",
-  "phonetic": "/səˈdʒɛstɪd/",
-  "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/suggested-us.mp3",
+  "date": "2026-02-16",
+  "word": "jacky",
+  "meaningEn": "A sailor.",
+  "meaningSi": "නැවියෙක්.",
+  "phonetic": null,
+  "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/jacky-au.mp3",
   "usage": [
     {
-      "en": "I am learning the word \"suggested\" today.",
-      "si": "අද මම කියවන්නේ \"නිර්දේශිත\" යන වචනයයි."
+      "en": "I am learning the word \"jacky\" today.",
+      "si": "අද මම ඉගෙන ගන්නේ \"ජැකී\" කියන වචනය."
     },
     {
-      "en": "Can you use \"suggested\" in a sentence?",
-      "si": "ඔබට වචනයක් තුළ \"අභිරුචිකරණය\" කළ හැකිද?"
+      "en": "Can you use \"jacky\" in a sentence?",
+      "si": "ඔබට \"ජැකී\" වාක් ය ඛණ්ඩයක් භාවිතා කළ හැකිද?"
     },
     {
-      "en": "This word \"suggested\" is useful in daily English.",
-      "si": "ඉංග් රීසි භාෂාවේ මේ වචනය එදිනෙදා කටයුතුවලදී ප් රයෝජනවත් වෙනවා."
+      "en": "This word \"jacky\" is useful in daily English.",
+      "si": "ඉංග් රීසි භාෂාවේදී 'ජැකී' යන වචනය ප් රයෝජනවත් වේ."
     }
   ]
 }
