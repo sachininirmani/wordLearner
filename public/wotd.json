@@ -1,22 +1,22 @@
 {
-  "date": "2026-02-16",
-  "word": "jacky",
-  "meaningEn": "A sailor.",
-  "meaningSi": "නැවියෙක්.",
+  "date": "2026-02-17",
+  "word": "milkfishes",
+  "meaningEn": "Chanos chanos, an important food fish in southeast Asia.",
+  "meaningSi": "Chanos Chanos - අග්නිදිග ආසියාවේ වැදගත් ආහාර මාළුවෙක්.",
   "phonetic": null,
-  "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/jacky-au.mp3",
+  "audio": null,
   "usage": [
     {
-      "en": "I am learning the word \"jacky\" today.",
-      "si": "අද මම ඉගෙන ගන්නේ \"ජැකී\" කියන වචනය."
+      "en": "I am learning the word \"milkfishes\" today.",
+      "si": "අද මම ඉගෙන ගන්නේ \"කුකුළු මස්\" යන වචනයයි."
     },
     {
-      "en": "Can you use \"jacky\" in a sentence?",
-      "si": "ඔබට \"ජැකී\" වාක් ය ඛණ්ඩයක් භාවිතා කළ හැකිද?"
+      "en": "Can you use \"milkfishes\" in a sentence?",
+      "si": "ඔබට වාක් යයක \"කිරි මාළු\" භාවිතා කළ හැකිද?"
     },
     {
-      "en": "This word \"jacky\" is useful in daily English.",
-      "si": "ඉංග් රීසි භාෂාවේදී 'ජැකී' යන වචනය ප් රයෝජනවත් වේ."
+      "en": "This word \"milkfishes\" is useful in daily English.",
+      "si": "දෛනික ඉංගී ් රසි භාෂාවේදී මෙම වචනය ප් රයෝජනවත් වේ."
     }
   ]
 }
