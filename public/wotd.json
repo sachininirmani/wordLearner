@@ -1,22 +1,22 @@
 {
-  "date": "2026-02-24",
-  "word": "programer",
-  "meaningEn": "One who writes computer programs; a software developer.",
-  "meaningSi": "Software Developer කෙනෙක්; Software Developer කෙනෙක්.",
-  "phonetic": null,
-  "audio": null,
+  "date": "2026-02-25",
+  "word": "assent",
+  "meaningEn": "Agreement; act of agreeing",
+  "meaningSi": "එකඟතාව - Act of agreeing",
+  "phonetic": "/əˈsɛnt/",
+  "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/assent.mp3",
   "usage": [
     {
-      "en": "I am learning the word \"programer\" today.",
-      "si": "අද මම ඉගෙන ගන්නේ \"ප් රෝග් රෑම්\" කියන වචනය."
+      "en": "I am learning the word \"assent\" today.",
+      "si": "අද මම ඉගෙන ගන්නේ \"අනුග් රහය\" යන වචනයයි."
     },
     {
-      "en": "Can you use \"programer\" in a sentence?",
-      "si": "ඔබට වාක් යයක \"ප් රෝග් රෑම්\" භාවිතා කළ හැකිද?"
+      "en": "Can you use \"assent\" in a sentence?",
+      "si": "ඔබට වාක් යයක \"අනුමැතිය\" භාවිතා කළ හැකිද?"
     },
     {
-      "en": "This word \"programer\" is useful in daily English.",
-      "si": "දෛනික ඉංග් රීසි භාෂාවේදී මෙම වචනය \"ක් රමලේඛකයා\" යන වචනය ප් රයෝජනවත් වේ."
+      "en": "This word \"assent\" is useful in daily English.",
+      "si": "දෛනික ඉංග් රීසි භාෂාවේ මෙම වචනය ප් රයෝජනවත් වේ."
     }
   ]
 }
