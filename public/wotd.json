@@ -1,22 +1,22 @@
 {
-  "date": "2026-02-27",
-  "word": "pilothouse",
-  "meaningEn": "A wheelhouse.",
-  "meaningSi": "වීල් හවුස් එකක්.",
-  "phonetic": null,
-  "audio": null,
+  "date": "2026-02-28",
+  "word": "desire",
+  "meaningEn": "Someone or something wished for.",
+  "meaningSi": "යමෙක් හෝ යමක් ප් ‍ රාර්ථනා කරයි.",
+  "phonetic": "/dɪˈzaɪə/",
+  "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/desire-us.mp3",
   "usage": [
     {
-      "en": "I am learning the word \"pilothouse\" today.",
-      "si": "අද මම ඉගෙන ගන්නේ \"පච්ච කොටා ගැනීම\" යන වචනයයි."
+      "en": "I am learning the word \"desire\" today.",
+      "si": "අද මම \"ප් රාර්ථනා\" යන වචනය ඉගෙන ගනිමි."
     },
     {
-      "en": "Can you use \"pilothouse\" in a sentence?",
-      "si": "ඔබට වාක් යයක \"පයිතගරස්\" භාවිතා කළ හැකිද?"
+      "en": "Can you use \"desire\" in a sentence?",
+      "si": "ඔබට \"ප් රාර්ථනා\" වාක් ය ඛණ්ඩයක් තුළ භාවිතා කළ හැකිද?"
     },
     {
-      "en": "This word \"pilothouse\" is useful in daily English.",
-      "si": "දෛනික ඉංග් රීසි භාෂාවේදී \"පයිතගරස්\" යන වචනය ප් රයෝජනවත් වේ."
+      "en": "This word \"desire\" is useful in daily English.",
+      "si": "දෛනික ඉංග් රීසි භාෂාවේදී \"ආශාව\" යන වචනය ප් රයෝජනවත් වේ."
     }
   ]
 }
