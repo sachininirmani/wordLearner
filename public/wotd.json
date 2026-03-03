@@ -1,22 +1,22 @@
 {
-  "date": "2026-03-02",
-  "word": "megohms",
-  "meaningEn": "One million (106) ohms, abbreviated as MΩ.",
-  "meaningSi": "මිලියනයක් (106) ඕම්, MΩ ලෙස කෙටියෙන් හැඳින්වේ.",
-  "phonetic": null,
-  "audio": null,
+  "date": "2026-03-03",
+  "word": "slang",
+  "meaningEn": "Language outside of conventional usage and in the informal register.",
+  "meaningSi": "සාම්ප් රදායික භාවිතයෙන් පිටත සහ අවිධිමත් ලේඛනයේ භාෂාව.",
+  "phonetic": "/sleɪŋ/",
+  "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/slang-us.mp3",
   "usage": [
     {
-      "en": "I am learning the word \"megohms\" today.",
-      "si": "අද මම \"මෙගා\" යන වචනය ඉගෙන ගනිමින් සිටිමි."
+      "en": "I am learning the word \"slang\" today.",
+      "si": "අද මම ඉගෙන ගන්න යන්නේ \"ස්කයිප්\" කියන වචනය."
     },
     {
-      "en": "Can you use \"megohms\" in a sentence?",
-      "si": "ඔබට වාක් යයක \"මෙගොම්\" භාවිතා කළ හැකිද?"
+      "en": "Can you use \"slang\" in a sentence?",
+      "si": "ඔබට වාක් යයක \"ස්ලැන්ග්\" භාවිතා කළ හැකිද?"
     },
     {
-      "en": "This word \"megohms\" is useful in daily English.",
-      "si": "\"මෙගා\" යන වචනය දෛනික ඉංග් රීසි භාෂාවේ ප් රයෝජනවත් වේ."
+      "en": "This word \"slang\" is useful in daily English.",
+      "si": "දෛනික ඉංග් රීසි භාෂාවේදී \"ස්ලෑන්\" යන වචනය ප් රයෝජනවත් වේ."
     }
   ]
 }
