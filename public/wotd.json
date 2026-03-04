@@ -1,22 +1,22 @@
 {
-  "date": "2026-03-03",
-  "word": "slang",
-  "meaningEn": "Language outside of conventional usage and in the informal register.",
-  "meaningSi": "සාම්ප් රදායික භාවිතයෙන් පිටත සහ අවිධිමත් ලේඛනයේ භාෂාව.",
-  "phonetic": "/sleɪŋ/",
-  "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/slang-us.mp3",
+  "date": "2026-03-04",
+  "word": "habitues",
+  "meaningEn": "One who frequents a place.",
+  "meaningSi": "එක තැනකට නිතර යන එන කෙනෙක්.",
+  "phonetic": null,
+  "audio": null,
   "usage": [
     {
-      "en": "I am learning the word \"slang\" today.",
-      "si": "අද මම ඉගෙන ගන්න යන්නේ \"ස්කයිප්\" කියන වචනය."
+      "en": "I am learning the word \"habitues\" today.",
+      "si": "අද මම ඉගෙන ගන්නේ \"පච්ච කොටා ගැනීම\" යන වචනයයි."
     },
     {
-      "en": "Can you use \"slang\" in a sentence?",
-      "si": "ඔබට වාක් යයක \"ස්ලැන්ග්\" භාවිතා කළ හැකිද?"
+      "en": "Can you use \"habitues\" in a sentence?",
+      "si": "ඔබට වාක් යයක \"පුරුදු\" භාවිතා කළ හැකිද?"
     },
     {
-      "en": "This word \"slang\" is useful in daily English.",
-      "si": "දෛනික ඉංග් රීසි භාෂාවේදී \"ස්ලෑන්\" යන වචනය ප් රයෝජනවත් වේ."
+      "en": "This word \"habitues\" is useful in daily English.",
+      "si": "දෛනික ඉංග් රීසි භාෂාවේදී මෙම වචනය \"පුරුද්ද\" ප් රයෝජනවත් වේ."
     }
   ]
 }
