@@ -1,22 +1,22 @@
 {
-  "date": "2026-03-04",
-  "word": "habitues",
-  "meaningEn": "One who frequents a place.",
-  "meaningSi": "එක තැනකට නිතර යන එන කෙනෙක්.",
+  "date": "2026-03-05",
+  "word": "saddleback",
+  "meaningEn": "A saddle-shaped ridge forming a shallow pass between two peaks.",
+  "meaningSi": "කඳු මුදුන් දෙකක් අතර නොගැඹුරු පාස් එකක් සෑදෙන සෑදල හැඩැති රිජ් එකක්.",
   "phonetic": null,
-  "audio": null,
+  "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/saddleback-au.mp3",
   "usage": [
     {
-      "en": "I am learning the word \"habitues\" today.",
-      "si": "අද මම ඉගෙන ගන්නේ \"පච්ච කොටා ගැනීම\" යන වචනයයි."
+      "en": "I am learning the word \"saddleback\" today.",
+      "si": "අද මම ඉගෙන ගන්නේ \"ප් රතිචක් රීකරණය\" යන වචනයයි."
     },
     {
-      "en": "Can you use \"habitues\" in a sentence?",
-      "si": "ඔබට වාක් යයක \"පුරුදු\" භාවිතා කළ හැකිද?"
+      "en": "Can you use \"saddleback\" in a sentence?",
+      "si": "ඔබට වාක් යයක \"සාඩල්බැක්\" භාවිතා කළ හැකිද?"
     },
     {
-      "en": "This word \"habitues\" is useful in daily English.",
-      "si": "දෛනික ඉංග් රීසි භාෂාවේදී මෙම වචනය \"පුරුද්ද\" ප් රයෝජනවත් වේ."
+      "en": "This word \"saddleback\" is useful in daily English.",
+      "si": "දෛනික ඉංගී ් රසි භාෂාවේදී මෙම වචනය භාවිතා කිරීම වඩාත් සුදුසුය."
     }
   ]
 }
