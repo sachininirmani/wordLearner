@@ -1,22 +1,22 @@
 {
-  "date": "2026-03-05",
-  "word": "saddleback",
-  "meaningEn": "A saddle-shaped ridge forming a shallow pass between two peaks.",
-  "meaningSi": "කඳු මුදුන් දෙකක් අතර නොගැඹුරු පාස් එකක් සෑදෙන සෑදල හැඩැති රිජ් එකක්.",
+  "date": "2026-03-06",
+  "word": "reelection",
+  "meaningEn": "The act of being elected after already being elected once, and already having served out one's first term.",
+  "meaningSi": "එක් වරක් තේරී පත්වීමෙන් පසු තේරී පත්වීමේ ක් රියාව, දැනටමත් එක් වරක් පළමු ධුර කාලය අවසන් කර ඇත.",
   "phonetic": null,
-  "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/saddleback-au.mp3",
+  "audio": null,
   "usage": [
     {
-      "en": "I am learning the word \"saddleback\" today.",
+      "en": "I am learning the word \"reelection\" today.",
       "si": "අද මම ඉගෙන ගන්නේ \"ප් රතිචක් රීකරණය\" යන වචනයයි."
     },
     {
-      "en": "Can you use \"saddleback\" in a sentence?",
-      "si": "ඔබට වාක් යයක \"සාඩල්බැක්\" භාවිතා කළ හැකිද?"
+      "en": "Can you use \"reelection\" in a sentence?",
+      "si": "ඔබට එක් වාක් යයක \"පුනරාවර්තනය\" භාවිතා කළ හැකිද?"
     },
     {
-      "en": "This word \"saddleback\" is useful in daily English.",
-      "si": "දෛනික ඉංගී ් රසි භාෂාවේදී මෙම වචනය භාවිතා කිරීම වඩාත් සුදුසුය."
+      "en": "This word \"reelection\" is useful in daily English.",
+      "si": "දෛනික ඉංග් රීසි භාෂාවේ මෙම වචනය ප් රයෝජනවත් වේ."
     }
   ]
 }
