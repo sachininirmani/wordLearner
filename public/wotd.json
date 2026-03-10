@@ -1,22 +1,22 @@
 {
-  "date": "2026-03-09",
-  "word": "whereof",
-  "meaningEn": "Of what.",
-  "meaningSi": "- මොකකද?",
-  "phonetic": "/wɛəɹˈɒv/",
-  "audio": null,
+  "date": "2026-03-10",
+  "word": "consanguinity",
+  "meaningEn": "A consanguineous or family relationship through parentage or descent. A blood relationship.",
+  "meaningSi": "දෙමාපිය සම්බන්ධතා හෝ පවුල් සම්බන්ධතා හරහා පවුල් සම්බන්ධතා ඇති කර ගැනීම. රුධිර සම්බන්ධතාවයක්.",
+  "phonetic": "/kɒnsaŋˈɡwɪnəti/",
+  "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/consanguinity-us.mp3",
   "usage": [
     {
-      "en": "I am learning the word \"whereof\" today.",
-      "si": "අද මම \"කොහේද\" යන වචනය ඉගෙන ගනිමි."
+      "en": "I am learning the word \"consanguinity\" today.",
+      "si": "අද මම ඉගෙන ගන්නේ \"සංහිඳියාව\" යන වචනයයි."
     },
     {
-      "en": "Can you use \"whereof\" in a sentence?",
-      "si": "ඔබට වචනයක් තුළ \"කුමන\" පදය භාවිතා කළ හැකිද?"
+      "en": "Can you use \"consanguinity\" in a sentence?",
+      "si": "ඔබට එක් වාක් යයක \"කොන්ක් රීට්\" භාවිතා කළ හැකිද?"
     },
     {
-      "en": "This word \"whereof\" is useful in daily English.",
-      "si": "ඉංග් රීසි භාෂාවේ මේ වචනය එදිනෙදා කටයුතුවලදී ප් රයෝජනවත් වෙනවා."
+      "en": "This word \"consanguinity\" is useful in daily English.",
+      "si": "දෛනික ඉංග් රීසි භාෂාවේදී මෙම වචනය ප් රයෝජනවත් වේ."
     }
   ]
 }
