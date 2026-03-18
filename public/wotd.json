@@ -1,22 +1,22 @@
 {
-  "date": "2026-03-17",
-  "word": "scotched",
-  "meaningEn": "To cut or score; to wound superficially.",
-  "meaningSi": "කැපීම හෝ ලකුණු කිරීම; මතුපිටින් තුවාල කිරීම.",
+  "date": "2026-03-18",
+  "word": "matey",
+  "meaningEn": "The conclusive victory in a game of chess that occurs when an opponent's king is threatened with unavoidable capture.",
+  "meaningSi": "ප් රතිවාදියාගේ රජුට නොවැළැක්විය හැකි අල්ලා ගැනීමේ තර්ජනයක් ඇති වූ විට සිදු වන චෙස් ක් රීඩාවක අවසාන ජයග් රහණය.",
   "phonetic": null,
-  "audio": null,
+  "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/matey-au.mp3",
   "usage": [
     {
-      "en": "I am learning the word \"scotched\" today.",
-      "si": "අද මම ඉගෙන ගන්නේ \"කුණුහරුප\" කියන වචනය."
+      "en": "I am learning the word \"matey\" today.",
+      "si": "අද මම ඉගෙන ගන්නේ \"මාතලන්\" කියන වචනේ."
     },
     {
-      "en": "Can you use \"scotched\" in a sentence?",
-      "si": "ඔබට එක් වාක් යයක \"ස්කොට්\" භාවිතා කළ හැකිද?"
+      "en": "Can you use \"matey\" in a sentence?",
+      "si": "ඔබට \"මැට්ටි\" වාක් යයක් වාක් යයක භාවිතා කළ හැකිද?"
     },
     {
-      "en": "This word \"scotched\" is useful in daily English.",
-      "si": "දෛනික ඉංග් රීසි භාෂාවේදී \"ස්කොට්\" යන වචනය ප් රයෝජනවත් වේ."
+      "en": "This word \"matey\" is useful in daily English.",
+      "si": "දෛනික ඉංග් රීසි භාෂාවේදී \"මැටි\" යන වචනය ප් රයෝජනවත් වේ."
     }
   ]
 }
