@@ -1,22 +1,22 @@
 {
-  "date": "2026-03-23",
-  "word": "beta",
-  "meaningEn": "The second letter of the Greek alphabet (Β,  β), preceded by alpha (Α,  α) and followed by gamma, (Γ,  γ). In modern Greek it represents the voiced labiodental fricative sound of v found in the English words have and vase.",
-  "meaningSi": "ග් ‍ රීක හෝඩියේ දෙවන අකුර (α,  β), ඇල්ෆාට පෙර (α,  α) සහ ගැමා, (α,  γ) අනුගමනය කරයි. නූතන ග් ‍ රීක භාෂාවෙන් එය ඉංග් ‍ රීසි වචන වල දක්නට ලැබෙන v හි ශබ්ද කරන ලද විද් ‍ යාගාර ප් ‍ රෝටීනමය fricative ශබ්දය නියෝජනය කරයි.",
-  "phonetic": "/ˈbiːtə/",
-  "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/beta-us.mp3",
+  "date": "2026-03-24",
+  "word": "skeg",
+  "meaningEn": "A fin-like structure to the rear of the keel of a vessel that supports the rudder and protects a propeller.",
+  "meaningSi": "රවුටරයට සහය දක්වන සහ ප් රචාලකයෙකු ආරක්ෂා කරන යාත් රාවක කෙල්හි පසුපස කෙළවරට සමාන ව් යුහයක්.",
+  "phonetic": "/skɛɡ/",
+  "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/skeg-au.mp3",
   "usage": [
     {
-      "en": "I am learning the word \"beta\" today.",
-      "si": "අද මම \"බීටා\" යන වචනය ඉගෙන ගනිමින් සිටිමි."
+      "en": "I am learning the word \"skeg\" today.",
+      "si": "අද මම ඉගෙන ගන්නේ \"ස්කයිප්\" යන වචනයයි."
     },
     {
-      "en": "Can you use \"beta\" in a sentence?",
-      "si": "ඔබට වාක් යයක \"බීටා\" භාවිතා කළ හැකිද?"
+      "en": "Can you use \"skeg\" in a sentence?",
+      "si": "ඔබට වාක් යයක \"ස්කයිග්\" භාවිතා කළ හැකිද?"
     },
     {
-      "en": "This word \"beta\" is useful in daily English.",
-      "si": "\"බීටා\" යන වචනය දෛනික ඉංග් රීසි භාෂාවේ ප් රයෝජනවත් වේ."
+      "en": "This word \"skeg\" is useful in daily English.",
+      "si": "දෛනික ඉංග් රීසි භාෂාවේ මෙම වචනය ප් රයෝජනවත් වේ."
     }
   ]
 }
