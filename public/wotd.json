@@ -1,22 +1,22 @@
 {
-  "date": "2026-03-30",
-  "word": "revenant",
-  "meaningEn": "Someone who returns from a long absence.",
-  "meaningSi": "දිගු කලක් නොඉවසිල්ලෙන් සිටි අයෙකි.",
-  "phonetic": "/ˈɹɛvənənt/",
-  "audio": null,
+  "date": "2026-03-31",
+  "word": "satisfaction",
+  "meaningEn": "A fulfilment of a need or desire.",
+  "meaningSi": "යම් අවශ් යතාවයක් හෝ ආශාවක් සපුරාලීම.",
+  "phonetic": "/sætɪsˈfækʃən/",
+  "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/satisfaction-us.mp3",
   "usage": [
     {
-      "en": "I am learning the word \"revenant\" today.",
-      "si": "අද මම ඉගෙන ගන්නේ \"පුනරාවර්තනය\" යන වචනයයි."
+      "en": "I am learning the word \"satisfaction\" today.",
+      "si": "අද මම \"සතුට\" යන වචනය ඉගෙන ගනිමි."
     },
     {
-      "en": "Can you use \"revenant\" in a sentence?",
-      "si": "ඔබට වාක් යයක \"පුනරාවර්තනය\" භාවිතා කළ හැකිද?"
+      "en": "Can you use \"satisfaction\" in a sentence?",
+      "si": "ඔබට එක වාක් යයක \"තෘප්තිය\" භාවිතා කළ හැකිද?"
     },
     {
-      "en": "This word \"revenant\" is useful in daily English.",
-      "si": "දෛනික ඉංග් රීසි භාෂාවේදී මෙම වචනය \"ප් රතිචක් රීකරණය\" යන වචනය ප් රයෝජනවත් වේ."
+      "en": "This word \"satisfaction\" is useful in daily English.",
+      "si": "දෛනික ඉංග් රීසි භාෂාවේදී \"තෘප්තිමත්\" යන වචනය ප් රයෝජනවත් වේ."
     }
   ]
 }
