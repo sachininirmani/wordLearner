@@ -1,22 +1,22 @@
 {
-  "date": "2026-04-01",
-  "word": "ligation",
-  "meaningEn": "Something that ties, a ligature.",
-  "meaningSi": "මොකක් හරි සම්බන්ධයක්, බැඳීමක්.",
-  "phonetic": null,
-  "audio": null,
+  "date": "2026-04-02",
+  "word": "eloquence",
+  "meaningEn": "The quality of artistry and persuasiveness in speech or writing.",
+  "meaningSi": "කථනයේ හෝ ලිවීමේදී කලාකරුවාගේ ගුණාත්මකභාවය සහ ඒත්තු ගැන්වීම.",
+  "phonetic": "/ˈɛl.ə.kwəns/",
+  "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/eloquence-us.mp3",
   "usage": [
     {
-      "en": "I am learning the word \"ligation\" today.",
-      "si": "අද මම ඉගෙන ගන්නේ \"ලිහිල් කිරීම\" යන වචනයයි."
+      "en": "I am learning the word \"eloquence\" today.",
+      "si": "අද මම ඉගෙන ගන්නේ \"අක්ෂර වින් යාසය\" යන වචනයයි."
     },
     {
-      "en": "Can you use \"ligation\" in a sentence?",
-      "si": "ඔබට වාක් යයක \"ලිගුව\" භාවිතා කළ හැකිද?"
+      "en": "Can you use \"eloquence\" in a sentence?",
+      "si": "ඔබට වාක් යයක \"Eloquence\" භාවිතා කළ හැකිද?"
     },
     {
-      "en": "This word \"ligation\" is useful in daily English.",
-      "si": "දෛනික ඉංග් රීසි භාෂාවේදී \"ලිවීම\" යන වචනය ප් රයෝජනවත් වේ."
+      "en": "This word \"eloquence\" is useful in daily English.",
+      "si": "දෛනික ඉංග් රීසි භාෂාවේ මෙම වචනය ප් රයෝජනවත් වේ."
     }
   ]
 }
