@@ -1,22 +1,22 @@
 {
-  "date": "2026-04-02",
-  "word": "eloquence",
-  "meaningEn": "The quality of artistry and persuasiveness in speech or writing.",
-  "meaningSi": "කථනයේ හෝ ලිවීමේදී කලාකරුවාගේ ගුණාත්මකභාවය සහ ඒත්තු ගැන්වීම.",
-  "phonetic": "/ˈɛl.ə.kwəns/",
-  "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/eloquence-us.mp3",
+  "date": "2026-04-03",
+  "word": "pipa",
+  "meaningEn": "A pear-shaped plucked lute from China.",
+  "meaningSi": "චීනයෙන් ආනයනය කරන ලද පොල්තෙල් තොගයක් හමුවේ.",
+  "phonetic": null,
+  "audio": null,
   "usage": [
     {
-      "en": "I am learning the word \"eloquence\" today.",
-      "si": "අද මම ඉගෙන ගන්නේ \"අක්ෂර වින් යාසය\" යන වචනයයි."
+      "en": "I am learning the word \"pipa\" today.",
+      "si": "අද මම ඉගෙන ගන්නේ \"පයිප්පය\" කියන වචනය."
     },
     {
-      "en": "Can you use \"eloquence\" in a sentence?",
-      "si": "ඔබට වාක් යයක \"Eloquence\" භාවිතා කළ හැකිද?"
+      "en": "Can you use \"pipa\" in a sentence?",
+      "si": "ඔබට වාක් යයක \"පයිපා\" භාවිතා කළ හැකිද?"
     },
     {
-      "en": "This word \"eloquence\" is useful in daily English.",
-      "si": "දෛනික ඉංග් රීසි භාෂාවේ මෙම වචනය ප් රයෝජනවත් වේ."
+      "en": "This word \"pipa\" is useful in daily English.",
+      "si": "දෛනික ඉංග් රීසි භාෂාවේ \"පයිපා\" යන වචනය ප් රයෝජනවත් වේ."
     }
   ]
 }
