@@ -1,21 +1,21 @@
 {
-  "date": "2026-05-02",
-  "word": "inured",
-  "meaningEn": "To cause someone to become accustomed to something (usually) unpleasant.",
-  "meaningSi": "යමෙකුට යම් දෙයකට පුරුදු වීමට (සාමාන් යයෙන්) අපහසුතාවයට පත් කිරීම.",
-  "phonetic": "/ɪˈnjʊɹd/",
-  "audio": null,
+  "date": "2026-05-03",
+  "word": "venom",
+  "meaningEn": "A poison carried by an animal, usually injected into an enemy or prey by biting or stinging.",
+  "meaningSi": "සතෙකු විසින් ගෙන යන විෂ, සාමාන් යයෙන් සතුරෙකුට හෝ ගොදුරකට දෂ්ට කිරීමෙන් හෝ දෂ්ට කිරීමෙන් එන්නත් කරනු ලැබේ.",
+  "phonetic": "/ˈvɛnəm/",
+  "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/venom-us.mp3",
   "usage": [
     {
-      "en": "I am learning the word \"inured\" today.",
-      "si": "අද මම ඉගෙන ගන්නේ \"ඉන්වොයිසියක්\" යන වචනයයි."
+      "en": "I am learning the word \"venom\" today.",
+      "si": "අද මම ඉගෙන ගන්න යන්නේ \"මධුර\" කියන වචනය."
     },
     {
-      "en": "Can you use \"inured\" in a sentence?",
-      "si": "ඔබට එක් වාක් යයක \"ඉන්වොයිසියක්\" භාවිතා කළ හැකිද?"
+      "en": "Can you use \"venom\" in a sentence?",
+      "si": "ඔබට වාක් යයක \"විෂ\" භාවිතා කළ හැකිද?"
     },
     {
-      "en": "This word \"inured\" is useful in daily English.",
+      "en": "This word \"venom\" is useful in daily English.",
       "si": "දෛනික ඉංග් රීසි භාෂාවේ මෙම වචනය ප් රයෝජනවත් වේ."
     }
   ]
