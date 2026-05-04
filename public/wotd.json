@@ -1,22 +1,22 @@
 {
-  "date": "2026-05-03",
-  "word": "venom",
-  "meaningEn": "A poison carried by an animal, usually injected into an enemy or prey by biting or stinging.",
-  "meaningSi": "සතෙකු විසින් ගෙන යන විෂ, සාමාන් යයෙන් සතුරෙකුට හෝ ගොදුරකට දෂ්ට කිරීමෙන් හෝ දෂ්ට කිරීමෙන් එන්නත් කරනු ලැබේ.",
-  "phonetic": "/ˈvɛnəm/",
-  "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/venom-us.mp3",
+  "date": "2026-05-04",
+  "word": "southwards",
+  "meaningEn": "In a southerly direction; towards the south.",
+  "meaningSi": "දකුණු දිශාවට; දකුණු දිශාවට",
+  "phonetic": null,
+  "audio": null,
   "usage": [
     {
-      "en": "I am learning the word \"venom\" today.",
-      "si": "අද මම ඉගෙන ගන්න යන්නේ \"මධුර\" කියන වචනය."
+      "en": "I am learning the word \"southwards\" today.",
+      "si": "අද මම ඉගෙන ගන්නේ \"දකුණ\" යන වචනයයි."
     },
     {
-      "en": "Can you use \"venom\" in a sentence?",
-      "si": "ඔබට වාක් යයක \"විෂ\" භාවිතා කළ හැකිද?"
+      "en": "Can you use \"southwards\" in a sentence?",
+      "si": "ඔබට වාක් යයක \"දකුණ\" භාවිතා කළ හැකිද?"
     },
     {
-      "en": "This word \"venom\" is useful in daily English.",
-      "si": "දෛනික ඉංග් රීසි භාෂාවේ මෙම වචනය ප් රයෝජනවත් වේ."
+      "en": "This word \"southwards\" is useful in daily English.",
+      "si": "දෛනික ඉංග් ‍ රීසි භාෂාවේදී \"Southwards\" යන වචනය ප් ‍ රයෝජනවත් වේ."
     }
   ]
 }
