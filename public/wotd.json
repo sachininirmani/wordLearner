@@ -1,22 +1,22 @@
 {
-  "date": "2026-05-08",
-  "word": "heard",
-  "meaningEn": "(stative) To perceive sounds through the ear.",
-  "meaningSi": "(සිනාසෙමින්) කනට ඇසෙන ශබ්දය ඇසෙනවා.",
-  "phonetic": "/hiːɹd/",
-  "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/heard-us.mp3",
+  "date": "2026-05-09",
+  "word": "backtracks",
+  "meaningEn": "The act of backtracking",
+  "meaningSi": "පසුබැසීමේ ක් රියාව",
+  "phonetic": null,
+  "audio": null,
   "usage": [
     {
-      "en": "I am learning the word \"heard\" today.",
-      "si": "අද මම ඉගෙන ගන්නේ \"සවන්දීම\" යන වචනයයි."
+      "en": "I am learning the word \"backtracks\" today.",
+      "si": "අද මම ඉගෙන ගන්නේ \"ප් රතිචක් රීකරණය\" යන වචනයයි."
     },
     {
-      "en": "Can you use \"heard\" in a sentence?",
-      "si": "ඔබට වාක් යයක \"ශ් රවණය\" භාවිතා කළ හැකිද?"
+      "en": "Can you use \"backtracks\" in a sentence?",
+      "si": "ඔබට වාක් යයක \"පසුපස\" භාවිතා කළ හැකිද?"
     },
     {
-      "en": "This word \"heard\" is useful in daily English.",
-      "si": "එදිනෙදා ඉංගී ් රසි භාෂාවේදී මෙම වචනය ප ් රයෝජනවත් වේ."
+      "en": "This word \"backtracks\" is useful in daily English.",
+      "si": "දෛනික ඉංගී ් රසි භාෂාවේදී මෙම වචනය ඉතා ප ් රයෝජනවත් වේ."
     }
   ]
 }
