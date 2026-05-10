@@ -1,22 +1,22 @@
 {
-  "date": "2026-05-09",
-  "word": "backtracks",
-  "meaningEn": "The act of backtracking",
-  "meaningSi": "පසුබැසීමේ ක් රියාව",
-  "phonetic": null,
-  "audio": null,
+  "date": "2026-05-10",
+  "word": "trained",
+  "meaningEn": "To practice an ability.",
+  "meaningSi": "හැකියාවක් ඇතිව ක් රියා කිරීම.",
+  "phonetic": "/tɹeɪnd/",
+  "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/trained-us.mp3",
   "usage": [
     {
-      "en": "I am learning the word \"backtracks\" today.",
-      "si": "අද මම ඉගෙන ගන්නේ \"ප් රතිචක් රීකරණය\" යන වචනයයි."
+      "en": "I am learning the word \"trained\" today.",
+      "si": "අද මම ඉගෙන ගන්නේ \"ඉගෙනීම\" යන වචනයයි."
     },
     {
-      "en": "Can you use \"backtracks\" in a sentence?",
-      "si": "ඔබට වාක් යයක \"පසුපස\" භාවිතා කළ හැකිද?"
+      "en": "Can you use \"trained\" in a sentence?",
+      "si": "ඔබට එක් වාක් යයක \"පුහුණුව\" භාවිතා කළ හැකිද?"
     },
     {
-      "en": "This word \"backtracks\" is useful in daily English.",
-      "si": "දෛනික ඉංගී ් රසි භාෂාවේදී මෙම වචනය ඉතා ප ් රයෝජනවත් වේ."
+      "en": "This word \"trained\" is useful in daily English.",
+      "si": "දෛනික ඉංග් රීසි භාෂාවේදී මෙම වචනය \"පුහුණු\" යන වචනය ප් රයෝජනවත් වේ."
     }
   ]
 }
