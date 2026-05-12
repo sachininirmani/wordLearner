@@ -1,22 +1,22 @@
 {
-  "date": "2026-05-11",
-  "word": "anchusa",
-  "meaningEn": "Any plant of the genus Anchusa (within family Boraginaceae) of rough and hairy Old World herbs with one-sided clusters of trumpet-shaped flowers.",
-  "meaningSi": "ඇන්කුසා වර්ගයේ ඕනෑම ශාකයක් (පවුල තුළ Boraginaceae) හොරණෑ හැඩැති මල් පොකුරු සහිත රළු හා හිසකෙස් සහිත පැරණි ලෝක ඖෂධ පැළෑටි.",
+  "date": "2026-05-12",
+  "word": "pang",
+  "meaningEn": "(often in the plural) A paroxysm of extreme physical pain or anguish; a feeling of sudden and transitory agony; a throe.",
+  "meaningSi": "(බොහෝ විට බහු වචන වලින්) අතිශයින්ම ශාරීරික වේදනාවක් හෝ වේදනාවක්; හදිසියේ සහ තාවකාලික වේදනාවක් දැනීම; උගුරක්.",
   "phonetic": null,
-  "audio": null,
+  "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pang-au.mp3",
   "usage": [
     {
-      "en": "I am learning the word \"anchusa\" today.",
-      "si": "අද මම \"ඇනෝනිමස්\" යන වචනය ඉගෙන ගනිමි."
+      "en": "I am learning the word \"pang\" today.",
+      "si": "අද මම ඉගෙන ගන්නේ \"පෑන\" කියන වචනය."
     },
     {
-      "en": "Can you use \"anchusa\" in a sentence?",
-      "si": "\"ඇනෝනිමස්\" කියන වචනය වචනයක් ඇතුලෙ පාවිච්චි කරන්න පුලුවන්ද?"
+      "en": "Can you use \"pang\" in a sentence?",
+      "si": "ඔබට එක වාක් යයක \"පැන්ග්\" භාවිතා කළ හැකිද?"
     },
     {
-      "en": "This word \"anchusa\" is useful in daily English.",
-      "si": "දෛනික ඉංග් රීසි භාෂාවේදී \"ඇන්කුසා\" යන වචනය ප් රයෝජනවත් වේ."
+      "en": "This word \"pang\" is useful in daily English.",
+      "si": "දෛනික ඉංග් රීසි භාෂාවේදී \"පෑන්\" යන වචනය ප් රයෝජනවත් වේ."
     }
   ]
 }
