@@ -1,22 +1,22 @@
 {
-  "date": "2026-05-12",
-  "word": "pang",
-  "meaningEn": "(often in the plural) A paroxysm of extreme physical pain or anguish; a feeling of sudden and transitory agony; a throe.",
-  "meaningSi": "(බොහෝ විට බහු වචන වලින්) අතිශයින්ම ශාරීරික වේදනාවක් හෝ වේදනාවක්; හදිසියේ සහ තාවකාලික වේදනාවක් දැනීම; උගුරක්.",
-  "phonetic": null,
-  "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pang-au.mp3",
+  "date": "2026-05-13",
+  "word": "midwinter",
+  "meaningEn": "The middle of winter.",
+  "meaningSi": "ශීත ඍතුවේ මැද භාගයයි.",
+  "phonetic": "/ˌmɪdˈwɪntə(ɹ)/",
+  "audio": null,
   "usage": [
     {
-      "en": "I am learning the word \"pang\" today.",
-      "si": "අද මම ඉගෙන ගන්නේ \"පෑන\" කියන වචනය."
+      "en": "I am learning the word \"midwinter\" today.",
+      "si": "අද මම ඉගෙන ගන්නේ \"මෛත් රීපාල සිරිසේන\" කියන වචනය."
     },
     {
-      "en": "Can you use \"pang\" in a sentence?",
-      "si": "ඔබට එක වාක් යයක \"පැන්ග්\" භාවිතා කළ හැකිද?"
+      "en": "Can you use \"midwinter\" in a sentence?",
+      "si": "ඔබට වාක් යයක \"මිඩ්වින්ටර්\" භාවිතා කළ හැකිද?"
     },
     {
-      "en": "This word \"pang\" is useful in daily English.",
-      "si": "දෛනික ඉංග් රීසි භාෂාවේදී \"පෑන්\" යන වචනය ප් රයෝජනවත් වේ."
+      "en": "This word \"midwinter\" is useful in daily English.",
+      "si": "දෛනික ඉංග් රීසි භාෂාවේ මෙම වචනය ප් රයෝජනවත් වේ."
     }
   ]
 }
