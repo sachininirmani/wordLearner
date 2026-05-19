@@ -1,22 +1,22 @@
 {
-  "date": "2026-05-18",
-  "word": "nonoperatic",
-  "meaningEn": "A useful English word: \"nonoperatic\".",
-  "meaningSi": "ප් ‍ රයෝජනවත් ඉංග් ‍ රීසි වචනයක්: \"ක් ‍ රියාකාරී නොවන\".",
-  "phonetic": null,
-  "audio": null,
+  "date": "2026-05-19",
+  "word": "saucepan",
+  "meaningEn": "A deep cooking vessel with a handle and sometimes a lid; used for boiling, stewing and making sauces.",
+  "meaningSi": "හසුරුවකින් සහ සමහර විට පියනක් සහිත ගැඹුරු ඉවුම් පිහුම් භාජනයක්; තාපාංකය, පිසීම සහ සෝස් සෑදීම සඳහා භාවිතා කරයි.",
+  "phonetic": "/ˈsɔːs.pən/",
+  "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/saucepan-uk.mp3",
   "usage": [
     {
-      "en": "I am learning the word \"nonoperatic\" today.",
-      "si": "අද මම ඉගෙන ගන්නේ \"නොසැලකිලිමත්කම\" යන වචනයයි."
+      "en": "I am learning the word \"saucepan\" today.",
+      "si": "අද මම ඉගෙන ගන්න යන්නේ \"කුණුහරුප\" කියන වචනය."
     },
     {
-      "en": "Can you use \"nonoperatic\" in a sentence?",
-      "si": "ඔබට එක් වාක් යයක \"ක් රියාකාරී නොවන\" භාවිතා කළ හැකිද?"
+      "en": "Can you use \"saucepan\" in a sentence?",
+      "si": "ඔබට වාක් යයක \"සැස්පෑන්\" භාවිතා කළ හැකිද?"
     },
     {
-      "en": "This word \"nonoperatic\" is useful in daily English.",
-      "si": "දෛනික ඉංග් රීසි භාෂාවේදී මෙම \"ක් රියාකාරී නොවන\" යන වචනය ප් රයෝජනවත් වේ."
+      "en": "This word \"saucepan\" is useful in daily English.",
+      "si": "දෛනික ඉංග් රීසි භාෂාවේ මෙම වචනය ප් රයෝජනවත් වේ."
     }
   ]
 }
