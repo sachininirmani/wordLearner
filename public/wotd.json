@@ -1,22 +1,22 @@
 {
-  "date": "2026-05-19",
-  "word": "saucepan",
-  "meaningEn": "A deep cooking vessel with a handle and sometimes a lid; used for boiling, stewing and making sauces.",
-  "meaningSi": "හසුරුවකින් සහ සමහර විට පියනක් සහිත ගැඹුරු ඉවුම් පිහුම් භාජනයක්; තාපාංකය, පිසීම සහ සෝස් සෑදීම සඳහා භාවිතා කරයි.",
-  "phonetic": "/ˈsɔːs.pən/",
-  "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/saucepan-uk.mp3",
+  "date": "2026-05-20",
+  "word": "unstopper",
+  "meaningEn": "To remove the stopper from.",
+  "meaningSi": "නැවැත්වීම ඉවත් කිරීම සඳහා.",
+  "phonetic": null,
+  "audio": null,
   "usage": [
     {
-      "en": "I am learning the word \"saucepan\" today.",
-      "si": "අද මම ඉගෙන ගන්න යන්නේ \"කුණුහරුප\" කියන වචනය."
+      "en": "I am learning the word \"unstopper\" today.",
+      "si": "අද මම ඉගෙන ගන්නේ \"නොනවතින\" යන වචනයයි."
     },
     {
-      "en": "Can you use \"saucepan\" in a sentence?",
-      "si": "ඔබට වාක් යයක \"සැස්පෑන්\" භාවිතා කළ හැකිද?"
+      "en": "Can you use \"unstopper\" in a sentence?",
+      "si": "ඔබට වාක් යයක \"නොනවතින\" භාවිතා කළ හැකිද?"
     },
     {
-      "en": "This word \"saucepan\" is useful in daily English.",
-      "si": "දෛනික ඉංග් රීසි භාෂාවේ මෙම වචනය ප් රයෝජනවත් වේ."
+      "en": "This word \"unstopper\" is useful in daily English.",
+      "si": "ඉංග් රීසි භාෂාවේ මෙම වචනය දිනපතා භාවිතයට ගැනෙන්නේ \"Unstopper\" යනුවෙනි."
     }
   ]
 }
