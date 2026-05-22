@@ -1,22 +1,22 @@
 {
-  "date": "2026-05-21",
-  "word": "characterisation",
-  "meaningEn": "The act or process of characterizing.",
-  "meaningSi": "චරිත නිරූපණය කිරීමේ ක් රියාවලිය හෝ ක් රියාවලිය.",
+  "date": "2026-05-22",
+  "word": "sauce",
+  "meaningEn": "A liquid (often thickened) condiment or accompaniment to food.",
+  "meaningSi": "දියර (බොහෝ විට thickened) කුළුබඩු හෝ ආහාරයට ගැනීම.",
   "phonetic": null,
-  "audio": null,
+  "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sauce-au.mp3",
   "usage": [
     {
-      "en": "I am learning the word \"characterisation\" today.",
-      "si": "අද මම ඉගෙන ගන්නේ \"අක්ෂර වින් යාසය\" යන වචනයයි."
+      "en": "I am learning the word \"sauce\" today.",
+      "si": "අද මම ඉගෙන ගන්නේ \"සෙක්ස්\" කියන වචනේ."
     },
     {
-      "en": "Can you use \"characterisation\" in a sentence?",
-      "si": "ඔබට වාක් යයක \"අක්ෂර වින් යාසය\" භාවිතා කළ හැකිද?"
+      "en": "Can you use \"sauce\" in a sentence?",
+      "si": "ඔබට වාක් යයක \"සෝස්\" භාවිතා කළ හැකිද?"
     },
     {
-      "en": "This word \"characterisation\" is useful in daily English.",
-      "si": "දෛනික ඉංග් රීසි භාෂාවේදී මෙම වචනය \"අක්ෂර වින් යාසය\" ප් රයෝජනවත් වේ."
+      "en": "This word \"sauce\" is useful in daily English.",
+      "si": "දෛනික ඉංග් රීසි භාෂාවේ මෙම වචනය ප් රයෝජනවත් වේ."
     }
   ]
 }
