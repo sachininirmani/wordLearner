@@ -1,22 +1,22 @@
 {
-  "date": "2026-05-22",
-  "word": "sauce",
-  "meaningEn": "A liquid (often thickened) condiment or accompaniment to food.",
-  "meaningSi": "දියර (බොහෝ විට thickened) කුළුබඩු හෝ ආහාරයට ගැනීම.",
+  "date": "2026-05-23",
+  "word": "toro",
+  "meaningEn": "A traditional Japanese lantern.",
+  "meaningSi": "සාම්ප් රදායික ජපන් පහන් කූඩුවක්.",
   "phonetic": null,
-  "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sauce-au.mp3",
+  "audio": null,
   "usage": [
     {
-      "en": "I am learning the word \"sauce\" today.",
-      "si": "අද මම ඉගෙන ගන්නේ \"සෙක්ස්\" කියන වචනේ."
+      "en": "I am learning the word \"toro\" today.",
+      "si": "අද මම \"ටොරොන්ටෝ\" යන වචනය ඉගෙන ගතිමි."
     },
     {
-      "en": "Can you use \"sauce\" in a sentence?",
-      "si": "ඔබට වාක් යයක \"සෝස්\" භාවිතා කළ හැකිද?"
+      "en": "Can you use \"toro\" in a sentence?",
+      "si": "\"ටොරන්ට්\" ලින්ක් එකකින් බාගන්න පුලුවන්ද?"
     },
     {
-      "en": "This word \"sauce\" is useful in daily English.",
-      "si": "දෛනික ඉංග් රීසි භාෂාවේ මෙම වචනය ප් රයෝජනවත් වේ."
+      "en": "This word \"toro\" is useful in daily English.",
+      "si": "ඉංග් රීසි භාෂාවේ \"ටෝරා\" යන වචනය ප් රයෝජනවත් වේ."
     }
   ]
 }
