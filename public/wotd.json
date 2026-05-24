@@ -1,22 +1,22 @@
 {
-  "date": "2026-05-23",
-  "word": "toro",
-  "meaningEn": "A traditional Japanese lantern.",
-  "meaningSi": "සාම්ප් රදායික ජපන් පහන් කූඩුවක්.",
-  "phonetic": null,
-  "audio": null,
+  "date": "2026-05-24",
+  "word": "hairy",
+  "meaningEn": "Of a person, having a lot of hair on the body.",
+  "meaningSi": "ශරීරයේ කොණ්ඩය ගොඩක් තියෙන පුද්ගලයෙක්.",
+  "phonetic": "/ˈhɛəɹi/",
+  "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hairy-us.mp3",
   "usage": [
     {
-      "en": "I am learning the word \"toro\" today.",
-      "si": "අද මම \"ටොරොන්ටෝ\" යන වචනය ඉගෙන ගතිමි."
+      "en": "I am learning the word \"hairy\" today.",
+      "si": "අද මම \"හර්ෂි\" කියන වචනය ඉගෙන ගන්නවා."
     },
     {
-      "en": "Can you use \"toro\" in a sentence?",
-      "si": "\"ටොරන්ට්\" ලින්ක් එකකින් බාගන්න පුලුවන්ද?"
+      "en": "Can you use \"hairy\" in a sentence?",
+      "si": "ඔබට වාක් යයක \"හර්ෂි\" භාවිතා කළ හැකිද?"
     },
     {
-      "en": "This word \"toro\" is useful in daily English.",
-      "si": "ඉංග් රීසි භාෂාවේ \"ටෝරා\" යන වචනය ප් රයෝජනවත් වේ."
+      "en": "This word \"hairy\" is useful in daily English.",
+      "si": "දෛනික ඉංග් රීසි භාෂාවේ මෙම වචනය ප් රයෝජනවත් වේ."
     }
   ]
 }
