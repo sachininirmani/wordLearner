@@ -1,22 +1,22 @@
 {
-  "date": "2026-05-24",
-  "word": "hairy",
-  "meaningEn": "Of a person, having a lot of hair on the body.",
-  "meaningSi": "ශරීරයේ කොණ්ඩය ගොඩක් තියෙන පුද්ගලයෙක්.",
-  "phonetic": "/ˈhɛəɹi/",
-  "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hairy-us.mp3",
+  "date": "2026-05-25",
+  "word": "deionizer",
+  "meaningEn": "A useful English word: \"deionizer\".",
+  "meaningSi": "ප් ‍ රයෝජනවත් ඉංග් ‍ රීසි වචනයක්: \"ඩියෝනයිසර්\".",
+  "phonetic": null,
+  "audio": null,
   "usage": [
     {
-      "en": "I am learning the word \"hairy\" today.",
-      "si": "අද මම \"හර්ෂි\" කියන වචනය ඉගෙන ගන්නවා."
+      "en": "I am learning the word \"deionizer\" today.",
+      "si": "අද මම ඉගෙන ගන්නේ \"ඩෙංගු රෝගය\" කියන වචනය."
     },
     {
-      "en": "Can you use \"hairy\" in a sentence?",
-      "si": "ඔබට වාක් යයක \"හර්ෂි\" භාවිතා කළ හැකිද?"
+      "en": "Can you use \"deionizer\" in a sentence?",
+      "si": "ඔබට වාක් යයක \"ඩියෝනයිසර්\" භාවිතා කළ හැකිද?"
     },
     {
-      "en": "This word \"hairy\" is useful in daily English.",
-      "si": "දෛනික ඉංග් රීසි භාෂාවේ මෙම වචනය ප් රයෝජනවත් වේ."
+      "en": "This word \"deionizer\" is useful in daily English.",
+      "si": "දෛනික ඉංග්රීසි භාෂාවේ දී මෙම වචනය \"ඩියෝනයිසර්\" ප්රයෝජනවත් වේ."
     }
   ]
 }
