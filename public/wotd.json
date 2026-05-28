@@ -1,22 +1,22 @@
 {
-  "date": "2026-05-27",
-  "word": "groomsmen",
-  "meaningEn": "A man who serves as one of a number of attendants to a bridegroom at a wedding, one of whom is the best man.",
-  "meaningSi": "විවාහ මංගල් යයකදී මනාලියකගේ සේවකයින් කිහිප දෙනෙකුගෙන් එක් අයෙකු ලෙස සේවය කරන මිනිසෙකු, ඔවුන්ගෙන් එක් අයෙකු හොඳම මිනිසා වේ.",
-  "phonetic": null,
-  "audio": null,
+  "date": "2026-05-28",
+  "word": "fraud",
+  "meaningEn": "The crime of stealing or otherwise illegally obtaining money by use of deception tactics.",
+  "meaningSi": "වංචා උපක් රම භාවිතා කරමින් සොරකම් කිරීම හෝ වෙනත් ආකාරයකින් මුදල් ලබා ගැනීම අපරාධයකි.",
+  "phonetic": "/fɹɔːd/",
+  "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fraud-uk.mp3",
   "usage": [
     {
-      "en": "I am learning the word \"groomsmen\" today.",
-      "si": "අද මම ඉගෙන ගන්නේ \"කුණුහරුප\" කියන වචනය."
+      "en": "I am learning the word \"fraud\" today.",
+      "si": "අද මම ඉගෙන ගන්නේ \"වංචාව\" යන වචනයයි."
     },
     {
-      "en": "Can you use \"groomsmen\" in a sentence?",
-      "si": "ඔබට එක් වාක් යයක \"Groomsmen\" භාවිතා කළ හැකිද?"
+      "en": "Can you use \"fraud\" in a sentence?",
+      "si": "ඔබට වාක් යයක \"වංචාව\" භාවිතා කළ හැකිද?"
     },
     {
-      "en": "This word \"groomsmen\" is useful in daily English.",
-      "si": "දෛනික ඉංග් රීසි භාෂාවේ මෙම වචනය ප් රයෝජනවත් වේ."
+      "en": "This word \"fraud\" is useful in daily English.",
+      "si": "දෛනික ඉංග් රීසි භාෂාවේදී \"වංචාව\" යන වචනය ප් රයෝජනවත් වේ."
     }
   ]
 }
