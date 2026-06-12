@@ -1,22 +1,22 @@
 {
-  "date": "2026-06-11",
-  "word": "religioner",
-  "meaningEn": "A religious zealot; a religionist.",
-  "meaningSi": "ජාතිවාදියෙක්; ආගම්වාදියෙක්.",
-  "phonetic": null,
-  "audio": null,
+  "date": "2026-06-12",
+  "word": "fifteenth",
+  "meaningEn": "The person or thing in the fifteenth position.",
+  "meaningSi": "15 වන ස්ථානයේ සිටින පුද්ගලයා හෝ දේ.",
+  "phonetic": "/ˌfɪfˈtiːnθ/",
+  "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fifteenth-us.mp3",
   "usage": [
     {
-      "en": "I am learning the word \"religioner\" today.",
-      "si": "අද මම \"ධර්මය\" යන වචනය ඉගෙන ගතිමි."
+      "en": "I am learning the word \"fifteenth\" today.",
+      "si": "අද මම \"15\" යන වචනය ඉගෙන ගනිමින් සිටිමි."
     },
     {
-      "en": "Can you use \"religioner\" in a sentence?",
-      "si": "ඔබට \"ධර්මය\" වචනයක් තුළ භාවිතා කළ හැකිද?"
+      "en": "Can you use \"fifteenth\" in a sentence?",
+      "si": "ඔබට එක් වාක් යයක \"15\" භාවිතා කළ හැකිද?"
     },
     {
-      "en": "This word \"religioner\" is useful in daily English.",
-      "si": "දෛනික ඉංග් රීසි භාෂාවේ මෙම වචනය ප් රයෝජනවත් වේ."
+      "en": "This word \"fifteenth\" is useful in daily English.",
+      "si": "දෛනික ඉංග් රීසි භාෂාවේ \"15\" යන වචනය ප් රයෝජනවත් වේ."
     }
   ]
 }
