@@ -1,22 +1,22 @@
 {
-  "date": "2026-06-17",
-  "word": "disaggregated",
-  "meaningEn": "To separate or break down into components",
-  "meaningSi": "සංරචක වලට වෙන් කිරීම හෝ බිඳ දැමීම",
-  "phonetic": null,
-  "audio": null,
+  "date": "2026-06-18",
+  "word": "invested",
+  "meaningEn": "To spend money, time, or energy on something, especially for some benefit or purpose; used with in.",
+  "meaningSi": "යම් දෙයක් සඳහා මුදල්, කාලය හෝ ශක්තිය වැය කිරීම, විශේෂයෙන් යම් ප් රයෝජනයක් හෝ අරමුණක් සඳහා භාවිතා කිරීම.",
+  "phonetic": "/ɪnˈvɛstɪd/",
+  "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/invested-us.mp3",
   "usage": [
     {
-      "en": "I am learning the word \"disaggregated\" today.",
-      "si": "අද මම ඉගෙන ගන්නේ \"වෙන්වීම\" යන වචනයයි."
+      "en": "I am learning the word \"invested\" today.",
+      "si": "අද මම ඉගෙන ගන්නේ \"ඉන්වොයිසියක්\" යන වචනයයි."
     },
     {
-      "en": "Can you use \"disaggregated\" in a sentence?",
-      "si": "ඔබට එක් වාක් යයක \"අසම්පූර්ණ\" භාවිතා කළ හැකිද?"
+      "en": "Can you use \"invested\" in a sentence?",
+      "si": "ඔබට එක් වාක් යයක \"ඉන්වෙන්ටරි\" භාවිතා කළ හැකිද?"
     },
     {
-      "en": "This word \"disaggregated\" is useful in daily English.",
-      "si": "දෛනික ඉංග් රීසි භාෂාවේදී මෙම වචනය \"වෙන් කිරීම\" ප් රයෝජනවත් වේ."
+      "en": "This word \"invested\" is useful in daily English.",
+      "si": "දෛනික ඉංග් රීසි භාෂාවේ මෙම වචනය ප් රයෝජනවත් වේ."
     }
   ]
 }
