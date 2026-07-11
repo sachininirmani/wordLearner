@@ -1,22 +1,22 @@
 {
-  "date": "2026-07-10",
-  "word": "martyr",
-  "meaningEn": "One who willingly accepts being put to death for adhering openly to one's religious beliefs; notably, saints canonized after martyrdom.",
-  "meaningSi": "කෙනෙකුගේ ආගමික විශ්වාසයන්ට විවෘතව බැඳී සිටීම නිසා කැමැත්තෙන්ම මරණයට පත් කිරීම පිළිගන්නා තැනැත්තා; විශේෂයෙන්, සාන්තුවරයන් දිවි පිදීමෙන් පසු කැනොනිස් කර ඇත.",
-  "phonetic": "/ˈmɐːtə(ɹ)/",
-  "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/martyr-uk.mp3",
+  "date": "2026-07-11",
+  "word": "shoved",
+  "meaningEn": "To push, especially roughly or with force.",
+  "meaningSi": "තල්ලු කිරීම, විශේෂයෙන් දළ වශයෙන් හෝ බලහත්කාරයෙන්.",
+  "phonetic": "/ʃʌvd/",
+  "audio": null,
   "usage": [
     {
-      "en": "I am learning the word \"martyr\" today.",
-      "si": "අද මම \"මාරයා\" යන වචනය ඉගෙන ගනිමි."
+      "en": "I am learning the word \"shoved\" today.",
+      "si": "අද මම ඉගෙන ගන්නේ \"උපුටා ගැනීම\" යන වචනයයි."
     },
     {
-      "en": "Can you use \"martyr\" in a sentence?",
-      "si": "ඔබට වචනයක් තුළ \"මාරයා\" භාවිතා කළ හැකිද?"
+      "en": "Can you use \"shoved\" in a sentence?",
+      "si": "ඔබට එක් වාක් යයක \"ෂෝඩ්\" භාවිතා කළ හැකිද?"
     },
     {
-      "en": "This word \"martyr\" is useful in daily English.",
-      "si": "දෛනික ඉංග් රීසි භාෂාවේදී \"මාතර\" යන වචනය ප් රයෝජනවත් වේ."
+      "en": "This word \"shoved\" is useful in daily English.",
+      "si": "දෛනික ඉංග් රීසි භාෂාවේ මෙම වචනය ප් රයෝජනවත් වේ."
     }
   ]
 }
