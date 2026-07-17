@@ -1,22 +1,22 @@
 {
-  "date": "2026-07-16",
-  "word": "intercommunicated",
-  "meaningEn": "To communicate mutually, one with another.",
-  "meaningSi": "එකිනෙකා සමඟ සන්නිවේදනය කිරීම, එකිනෙකා සමඟ සන්නිවේදනය කිරීම.",
-  "phonetic": null,
-  "audio": null,
+  "date": "2026-07-17",
+  "word": "appendix",
+  "meaningEn": "Something attached to something else; an attachment or accompaniment.",
+  "meaningSi": "වෙනත් දෙයකට සම්බන්ධ දෙයක්; බැඳීමක් හෝ අනුග් ‍ රහයක්.",
+  "phonetic": "/əˈpɛn.dɪks/",
+  "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/appendix-us.mp3",
   "usage": [
     {
-      "en": "I am learning the word \"intercommunicated\" today.",
-      "si": "අද මම ඉගෙන ගන්නේ \"සන්නිවේදනය\" යන වචනයයි."
+      "en": "I am learning the word \"appendix\" today.",
+      "si": "අද මම ඉගෙන ගන්නේ \"ඇඩ්සෙන්ස්\" කියන වචනය."
     },
     {
-      "en": "Can you use \"intercommunicated\" in a sentence?",
-      "si": "ඔබට වාක් යයක \"අන්තර් සම්බන්ධිත\" භාවිතා කළ හැකිද?"
+      "en": "Can you use \"appendix\" in a sentence?",
+      "si": "ඔබට වාක් යයක \"ඇඩ්සෙන්ස්\" භාවිතා කළ හැකිද?"
     },
     {
-      "en": "This word \"intercommunicated\" is useful in daily English.",
-      "si": "එදිනෙදා ඉංග් රීසි භාෂාවේදී මෙම \"සන්නිවේදනය\" යන වචනය ප් රයෝජනවත් වේ."
+      "en": "This word \"appendix\" is useful in daily English.",
+      "si": "දෛනික ඉංග් රීසි භාෂාවේදී මෙම වචනය \"උපග් රන්ථය\" ප් රයෝජනවත් වේ."
     }
   ]
 }
