@@ -1,22 +1,22 @@
 {
-  "date": "2026-07-20",
-  "word": "equalise",
-  "meaningEn": "To make equal; to cause to correspond in amount or degree.",
-  "meaningSi": "සමාන කිරීමට; ප් ‍ රමාණයෙන් හෝ ප් ‍ රමාණයෙන් අනුරූප වීමට හේතු වීම.",
-  "phonetic": null,
-  "audio": null,
+  "date": "2026-07-21",
+  "word": "tube",
+  "meaningEn": "Anything that is hollow and cylindrical in shape.",
+  "meaningSi": "ඕනෑම දෙයක් හිස් හා සිලින්ඩරාකාර හැඩයකින් යුක්ත වේ.",
+  "phonetic": "/tjuːb/",
+  "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tube-au.mp3",
   "usage": [
     {
-      "en": "I am learning the word \"equalise\" today.",
-      "si": "අද මම ඉගෙන ගන්නේ \"සමානාත්මතාවය\" යන වචනයයි."
+      "en": "I am learning the word \"tube\" today.",
+      "si": "අද මම ඉගෙන ගන්නේ \"ටියුබ් ලයිට්\" කියන වචනය."
     },
     {
-      "en": "Can you use \"equalise\" in a sentence?",
-      "si": "ඔබට වාක් යයක \"සමමුහුර්තකරණය\" භාවිතා කළ හැකිද?"
+      "en": "Can you use \"tube\" in a sentence?",
+      "si": "ඔබට වාක් යයක \"ටියුබ්\" භාවිතා කළ හැකිද?"
     },
     {
-      "en": "This word \"equalise\" is useful in daily English.",
-      "si": "දෛනික ඉංග් රීසි භාෂාවේදී \"සමානාත්මතාවය\" යන වචනය ප් රයෝජනවත් වේ."
+      "en": "This word \"tube\" is useful in daily English.",
+      "si": "දෛනික ඉංග් රීසි භාෂාවේදී \"ටියුබ්\" යන වචනය ප් රයෝජනවත් වේ."
     }
   ]
 }
