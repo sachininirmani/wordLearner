@@ -1,22 +1,22 @@
 {
-  "date": "2026-07-29",
-  "word": "quicker",
-  "meaningEn": "Moving with speed, rapidity or swiftness, or capable of doing so; rapid; fast.",
-  "meaningSi": "වේගයෙන්, වේගයෙන් හෝ වේගයෙන් චලනය වීම, හෝ එසේ කිරීමට හැකියාව; වේගවත්; වේගවත්; වේගවත්.",
-  "phonetic": "/ˈkwɪkə/",
-  "audio": null,
+  "date": "2026-07-30",
+  "word": "caravan",
+  "meaningEn": "A convoy or procession of travelers, their vehicles and cargo, and any pack animals, especially camels crossing a desert.",
+  "meaningSi": "සංචාරකයන්ගේ රථ පෙළපාලියක් හෝ පෙරහැරක්, ඔවුන්ගේ වාහන සහ භාණ්ඩ, සහ ඕනෑම ඇසුරුම් සතුන්, විශේෂයෙන් කාන්තාරයක් තරණය කරන ඔටුවන්.",
+  "phonetic": "/ˈkæɹəvæn/",
+  "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/caravan-au.mp3",
   "usage": [
     {
-      "en": "I am learning the word \"quicker\" today.",
-      "si": "අද මම ඉගෙන ගන්නේ \"වේගවත්\" යන වචනයයි."
+      "en": "I am learning the word \"caravan\" today.",
+      "si": "අද මම ඉගෙන ගන්නේ \"කැරවාන්\" යන වචනයයි."
     },
     {
-      "en": "Can you use \"quicker\" in a sentence?",
-      "si": "ඔබට එක් වාක් යයක \"වේගවත්\" භාවිතා කළ හැකිද?"
+      "en": "Can you use \"caravan\" in a sentence?",
+      "si": "ඔබට වාක් යයක \"කැරවාන්\" භාවිතා කළ හැකිද?"
     },
     {
-      "en": "This word \"quicker\" is useful in daily English.",
-      "si": "දෛනික ඉංග් රීසි භාෂාවේදී මෙම වචනය \"වේගවත්\" යන වචනය ප් රයෝජනවත් වේ."
+      "en": "This word \"caravan\" is useful in daily English.",
+      "si": "දෛනික ඉංග්රීසි භාෂාවේ මෙම වචනය \"කැරවාන්\" යන වචනය ප්රයෝජනවත් වේ."
     }
   ]
 }
