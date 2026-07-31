@@ -1,22 +1,22 @@
 {
-  "date": "2026-07-30",
-  "word": "caravan",
-  "meaningEn": "A convoy or procession of travelers, their vehicles and cargo, and any pack animals, especially camels crossing a desert.",
-  "meaningSi": "සංචාරකයන්ගේ රථ පෙළපාලියක් හෝ පෙරහැරක්, ඔවුන්ගේ වාහන සහ භාණ්ඩ, සහ ඕනෑම ඇසුරුම් සතුන්, විශේෂයෙන් කාන්තාරයක් තරණය කරන ඔටුවන්.",
-  "phonetic": "/ˈkæɹəvæn/",
-  "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/caravan-au.mp3",
+  "date": "2026-07-31",
+  "word": "viscoelasticity",
+  "meaningEn": "The property of a material that is both viscous and elastic.",
+  "meaningSi": "ද් රව් යයක දේපල විස්කස් සහ ඉලාස්ටික් යන දෙකම වේ.",
+  "phonetic": null,
+  "audio": null,
   "usage": [
     {
-      "en": "I am learning the word \"caravan\" today.",
-      "si": "අද මම ඉගෙන ගන්නේ \"කැරවාන්\" යන වචනයයි."
+      "en": "I am learning the word \"viscoelasticity\" today.",
+      "si": "අද මම ඉගෙන ගන්නේ \"විස්කොලස්ටික්\" යන වචනයයි."
     },
     {
-      "en": "Can you use \"caravan\" in a sentence?",
-      "si": "ඔබට වාක් යයක \"කැරවාන්\" භාවිතා කළ හැකිද?"
+      "en": "Can you use \"viscoelasticity\" in a sentence?",
+      "si": "ඔබට වාක් යයක \"විස්කොලස්ටික්\" භාවිතා කළ හැකිද?"
     },
     {
-      "en": "This word \"caravan\" is useful in daily English.",
-      "si": "දෛනික ඉංග්රීසි භාෂාවේ මෙම වචනය \"කැරවාන්\" යන වචනය ප්රයෝජනවත් වේ."
+      "en": "This word \"viscoelasticity\" is useful in daily English.",
+      "si": "දෛනික ඉංග් රීසි භාෂාවේදී \"විස්කොලස්ටික්\" යන වචනය ප් රයෝජනවත් වේ."
     }
   ]
 }
