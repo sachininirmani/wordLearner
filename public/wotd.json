@@ -1,22 +1,22 @@
 {
-  "date": "2026-08-08",
-  "word": "pyelographic",
-  "meaningEn": "A useful English word: \"pyelographic\".",
-  "meaningSi": "ප් ‍ රයෝජනවත් ඉංග් ‍ රීසි වචනයක්: \"pyelographic\".",
-  "phonetic": null,
-  "audio": null,
+  "date": "2026-08-09",
+  "word": "nacelle",
+  "meaningEn": "A separate streamlined enclosure mounted on an aircraft to house an engine, cargo, or crew.",
+  "meaningSi": "එන්ජිමක්, භාණ්ඩයක් හෝ කාර්ය මණ්ඩලයක් වාසය කිරීම සඳහා ගුවන් යානයක සවි කර ඇති වෙනම විධිමත් වටපිටාවක්.",
+  "phonetic": "/nəˈsɛl/",
+  "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/nacelle-uk.mp3",
   "usage": [
     {
-      "en": "I am learning the word \"pyelographic\" today.",
-      "si": "මම අද ඉගෙන ගන්නේ \"පයිලොග් රැෆික්\" යන වචනයයි."
+      "en": "I am learning the word \"nacelle\" today.",
+      "si": "අද මම ඉගෙන ගන්නේ \"නස්රුදීන්\" කියන වචනය."
     },
     {
-      "en": "Can you use \"pyelographic\" in a sentence?",
-      "si": "ඔබට වාක් යයක \"පයිලොග් රැෆික්\" භාවිතා කළ හැකිද?"
+      "en": "Can you use \"nacelle\" in a sentence?",
+      "si": "ඔබට එක් වාක් යයක \"නයිලෝන්\" භාවිතා කළ හැකිද?"
     },
     {
-      "en": "This word \"pyelographic\" is useful in daily English.",
-      "si": "දෛනික ඉංග් රීසි භාෂාවේදී \"පයිලොග් රැෆික්\" යන වචනය ප් රයෝජනවත් වේ."
+      "en": "This word \"nacelle\" is useful in daily English.",
+      "si": "ඉංග් රීසි භාෂාවේදී \"නස්රුදීන්\" යන වචනය ප් රයෝජනවත් වේ."
     }
   ]
 }
