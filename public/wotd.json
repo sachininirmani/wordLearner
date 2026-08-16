@@ -1,22 +1,22 @@
 {
-  "date": "2026-08-15",
-  "word": "meliorism",
-  "meaningEn": "The view or doctrine that the world can be improved through human effort (often understood as an intermediate outlook between optimism and pessimism).",
-  "meaningSi": "මිනිස් උත්සාහයෙන් ලෝකය වැඩිදියුණු කළ හැකිය යන මතය හෝ මූලධර්මය (බොහෝ විට ශුභවාදී හා අශුභවාදී අතර අතරමැදි දෘෂ්ටියක් ලෙස තේරුම් ගනී).",
-  "phonetic": "/ˈmiːlɪəɹɪz(ə)m/",
-  "audio": null,
+  "date": "2026-08-16",
+  "word": "photog",
+  "meaningEn": "A photographer, especially a professional one.",
+  "meaningSi": "ඡායාරූප ශිල්පියෙක්, විශේෂයෙන්ම වෘත්තිකයෙක්.",
+  "phonetic": "/fəˈtɒɡ/",
+  "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/photog-us.mp3",
   "usage": [
     {
-      "en": "I am learning the word \"meliorism\" today.",
-      "si": "අද මම ඉගෙන ගන්නේ \"මෛත් රීපාල සිරිසේන\" කියන වචනය."
+      "en": "I am learning the word \"photog\" today.",
+      "si": "අද මම ඉගෙන ගන්නේ \"චිත්තවේගීය\" කියන වචනය."
     },
     {
-      "en": "Can you use \"meliorism\" in a sentence?",
-      "si": "ඔබට වාක් යයක \"මෙලියෝරිවාදය\" භාවිතා කළ හැකිද?"
+      "en": "Can you use \"photog\" in a sentence?",
+      "si": "ඔබට වාක් යයක \"ඡායාරූප\" භාවිතා කළ හැකිද?"
     },
     {
-      "en": "This word \"meliorism\" is useful in daily English.",
-      "si": "ඉංග් රීසි භාෂාවේදී මේ \"මෛත් රිපාල\" යන වචනය ප් රයෝජනවත් වේ."
+      "en": "This word \"photog\" is useful in daily English.",
+      "si": "දෛනික ඉංග් රීසි භාෂාවේ මෙම වචනය ප් රයෝජනවත් වේ."
     }
   ]
 }
