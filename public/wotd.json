@@ -1,22 +1,22 @@
 {
-  "date": "2026-08-16",
-  "word": "photog",
-  "meaningEn": "A photographer, especially a professional one.",
-  "meaningSi": "ඡායාරූප ශිල්පියෙක්, විශේෂයෙන්ම වෘත්තිකයෙක්.",
-  "phonetic": "/fəˈtɒɡ/",
-  "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/photog-us.mp3",
+  "date": "2026-08-17",
+  "word": "renewal",
+  "meaningEn": "The act of renewing.",
+  "meaningSi": "අලුත්වැඩියා කිරීමේ ක් රියාව.",
+  "phonetic": null,
+  "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/renewal-us.mp3",
   "usage": [
     {
-      "en": "I am learning the word \"photog\" today.",
-      "si": "අද මම ඉගෙන ගන්නේ \"චිත්තවේගීය\" කියන වචනය."
+      "en": "I am learning the word \"renewal\" today.",
+      "si": "අද මම ඉගෙන ගන්නේ \"පුනරුත්ථාපනය\" යන වචනයයි."
     },
     {
-      "en": "Can you use \"photog\" in a sentence?",
-      "si": "ඔබට වාක් යයක \"ඡායාරූප\" භාවිතා කළ හැකිද?"
+      "en": "Can you use \"renewal\" in a sentence?",
+      "si": "ඔබට වචනයක් තුළ \"පුනරාවර්තනය\" භාවිතා කළ හැකිද?"
     },
     {
-      "en": "This word \"photog\" is useful in daily English.",
-      "si": "දෛනික ඉංග් රීසි භාෂාවේ මෙම වචනය ප් රයෝජනවත් වේ."
+      "en": "This word \"renewal\" is useful in daily English.",
+      "si": "ඉංග් රීසි භාෂාවේ මෙම වචනය දිනපතා භාවිතයට ගැනේ."
     }
   ]
 }
