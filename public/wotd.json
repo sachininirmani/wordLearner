@@ -1,22 +1,22 @@
 {
-  "date": "2026-08-20",
-  "word": "damselfishes",
-  "meaningEn": "Any of a number of fish in the Pomacentridae family.",
-  "meaningSi": "Pomacentridae පවුලේ ඕනෑම මාළු වර්ගයක්.",
-  "phonetic": null,
-  "audio": null,
+  "date": "2026-08-21",
+  "word": "awake",
+  "meaningEn": "Not asleep; conscious.",
+  "meaningSi": "නිදිමතයි, සිහියයි නෑ.",
+  "phonetic": "/əˈweɪk/",
+  "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/awake-us.mp3",
   "usage": [
     {
-      "en": "I am learning the word \"damselfishes\" today.",
-      "si": "අද මම ඉගෙන ගන්නේ \"ආත්මාර්ථකාමී\" යන වචනයයි."
+      "en": "I am learning the word \"awake\" today.",
+      "si": "අද මම ඉගෙන ගන්නේ \"අක්ෂර වින් යාසය\" යන වචනයයි."
     },
     {
-      "en": "Can you use \"damselfishes\" in a sentence?",
-      "si": "ඔබට වාක් යයක \"ඩීමන්\" භාවිතා කළ හැකිද?"
+      "en": "Can you use \"awake\" in a sentence?",
+      "si": "ඔබට වාක් යයක \"අව්ව\" භාවිතා කළ හැකිද?"
     },
     {
-      "en": "This word \"damselfishes\" is useful in daily English.",
-      "si": "දෛනික ඉංග් රීසි භාෂාවේ මෙම වචනය ප් රයෝජනවත් වේ."
+      "en": "This word \"awake\" is useful in daily English.",
+      "si": "දෛනික ඉංග් රීසි භාෂාවේදී \"අවදිවීම\" යන වචනය ප් රයෝජනවත් වේ."
     }
   ]
 }
