@@ -1,22 +1,22 @@
 {
-  "date": "2026-09-20",
-  "word": "bobsleigh",
-  "meaningEn": "A useful English word: \"bobsleigh\".",
-  "meaningSi": "ප් ‍ රයෝජනවත් ඉංග් ‍ රීසි වචනයක්: \"බොබ්ස්ලී\".",
-  "phonetic": null,
-  "audio": null,
+  "date": "2026-09-21",
+  "word": "plan",
+  "meaningEn": "A drawing showing technical details of a building, machine, etc., with unwanted details omitted, and often using symbols rather than detailed drawing to represent doors, valves, etc.",
+  "meaningSi": "ගොඩනැගිල්ලක්, යන්ත් රයක් ආදිය පිළිබඳ තාක්ෂණික තොරතුරු පෙන්වන චිත් රයක්, අනවශ් ය විස්තර අතපසු කර ඇති අතර බොහෝ විට දොරවල්, කපාට ආදිය නියෝජනය කිරීම සඳහා සවිස්තරාත්මක ඇඳීම වෙනුවට සංකේත භාවිතා කරයි.",
+  "phonetic": "/plæn/",
+  "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/plan-us.mp3",
   "usage": [
     {
-      "en": "I am learning the word \"bobsleigh\" today.",
-      "si": "අද මම ඉගෙන ගන්නේ \"බොබ්ස්ලි\" යන වචනයයි."
+      "en": "I am learning the word \"plan\" today.",
+      "si": "අද මම ඉගෙන ගන්නේ \"ප්ලෑන්\" යන වචනයයි."
     },
     {
-      "en": "Can you use \"bobsleigh\" in a sentence?",
-      "si": "ඔබට එක් වාක් යයක \"බොබ්ස්ලී\" භාවිතා කළ හැකිද?"
+      "en": "Can you use \"plan\" in a sentence?",
+      "si": "ඔබට වාක් යයක \"සැලැස්ම\" භාවිතා කළ හැකිද?"
     },
     {
-      "en": "This word \"bobsleigh\" is useful in daily English.",
-      "si": "ඉංග් රීසි භාෂාවේ දිනපතා භාවිතා වන \"බිබ්ස්ලි\" (bobsleigh) යන වචනය ප් රයෝජනවත් වේ."
+      "en": "This word \"plan\" is useful in daily English.",
+      "si": "දෛනික ඉංග් රීසි භාෂාවේදී මෙම වචනය \"සැලැස්ම\" ප් රයෝජනවත් වේ."
     }
   ]
 }
