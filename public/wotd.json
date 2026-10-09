@@ -1,22 +1,22 @@
 {
-  "date": "2026-10-08",
-  "word": "undergrow",
-  "meaningEn": "A useful English word: \"undergrow\".",
-  "meaningSi": "ප් ‍ රයෝජනවත් ඉංග් ‍ රීසි වචනයක්: \"undergrow\".",
-  "phonetic": null,
-  "audio": null,
+  "date": "2026-10-09",
+  "word": "cable",
+  "meaningEn": "(material) A long object used to make a physical connection.",
+  "meaningSi": "(ද් රව් ය) භෞතික සම්බන්ධතාවයක් ඇති කර ගැනීම සඳහා භාවිතා කරන දිගු වස්තුවකි.",
+  "phonetic": "/keɪ.bl/",
+  "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cable-us.mp3",
   "usage": [
     {
-      "en": "I am learning the word \"undergrow\" today.",
-      "si": "අද මම ඉගෙන ගන්නේ \"උපුටා ගැනීම\" යන වචනයයි."
+      "en": "I am learning the word \"cable\" today.",
+      "si": "අද මම ඉගෙන ගන්නේ \"කේබල්\" යන වචනයයි."
     },
     {
-      "en": "Can you use \"undergrow\" in a sentence?",
-      "si": "ඔබට වාක් යයක \"යටගුරු\" භාවිතා කළ හැකිද?"
+      "en": "Can you use \"cable\" in a sentence?",
+      "si": "ඔබට වාක් යයක \"කේබල්\" භාවිතා කළ හැකිද?"
     },
     {
-      "en": "This word \"undergrow\" is useful in daily English.",
-      "si": "දෛනික ඉංග් රීසි භාෂාවේදී මෙම වචනය ප් රයෝජනවත් වේ."
+      "en": "This word \"cable\" is useful in daily English.",
+      "si": "දෛනික ඉංග් රීසි භාෂාවේදී \"කේබල්\" යන වචනය ප් රයෝජනවත් වේ."
     }
   ]
 }
