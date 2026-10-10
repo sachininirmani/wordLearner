@@ -1,22 +1,22 @@
 {
-  "date": "2026-10-09",
-  "word": "cable",
-  "meaningEn": "(material) A long object used to make a physical connection.",
-  "meaningSi": "(ද් රව් ය) භෞතික සම්බන්ධතාවයක් ඇති කර ගැනීම සඳහා භාවිතා කරන දිගු වස්තුවකි.",
-  "phonetic": "/keɪ.bl/",
-  "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cable-us.mp3",
+  "date": "2026-10-10",
+  "word": "sturdiersturdies",
+  "meaningEn": "A useful English word: \"sturdiersturdies\".",
+  "meaningSi": "ප් ‍ රයෝජනවත් ඉංග් ‍ රීසි වචනයක්: \"sturdiersturdies\".",
+  "phonetic": null,
+  "audio": null,
   "usage": [
     {
-      "en": "I am learning the word \"cable\" today.",
-      "si": "අද මම ඉගෙන ගන්නේ \"කේබල්\" යන වචනයයි."
+      "en": "I am learning the word \"sturdiersturdies\" today.",
+      "si": "අද මම ඉගෙන ගන්න යන්නේ \"පච්ච කොටා ගැනීම\" යන වචනයයි."
     },
     {
-      "en": "Can you use \"cable\" in a sentence?",
-      "si": "ඔබට වාක් යයක \"කේබල්\" භාවිතා කළ හැකිද?"
+      "en": "Can you use \"sturdiersturdies\" in a sentence?",
+      "si": "ඔබට මෙම වාක් ය ඛණ්ඩය තුළ \"ස්ටාර්ඩර්ස්ටර්ඩ්ස්\" භාවිතා කළ හැකිද?"
     },
     {
-      "en": "This word \"cable\" is useful in daily English.",
-      "si": "දෛනික ඉංග් රීසි භාෂාවේදී \"කේබල්\" යන වචනය ප් රයෝජනවත් වේ."
+      "en": "This word \"sturdiersturdies\" is useful in daily English.",
+      "si": "දෛනික ඉංග් රීසි භාෂාවේ මෙම වචනය ප් රයෝජනවත් වේ."
     }
   ]
 }
